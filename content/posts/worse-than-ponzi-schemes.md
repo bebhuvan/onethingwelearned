@@ -1,6 +1,6 @@
 +++
 title = "Worse than Ponzi schemes"
-date = "2024-01-16"
+date = "2025-01-16"
 description = "A few things we learned about SPACs, consumption trends, chip wars, and more."
 
 [taxonomies]
