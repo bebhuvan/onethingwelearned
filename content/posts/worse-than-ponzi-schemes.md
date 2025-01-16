@@ -37,6 +37,7 @@ Worth a read and/or a listen.
 
 ---
 **Bhuvan**
+
 This [article](https://qz.com/cash-poor-americas-living-paycheck-to-paycheck-payday-1851739498) depressed the hell out of me:
 
 > The report defined cash-poor as those living paycheck-to-paycheck, which some estimates believe is as many as 58% of Americans. SoLo found that the $39 billion that cash-poor Americans paid was on top of the advertised Annual Percentage Rate (APR) rates for short-term loans.
