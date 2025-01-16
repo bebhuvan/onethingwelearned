@@ -1,0 +1,60 @@
+author = "Bhuvanesh"
+title = "Two Things We Learned"
+base_url = "http://127.0.0.1:1111"
+compile_sass = true
+build_search_index = true 
+generate_feeds = true
+feed_filenames = [ "atom.xml" ]
+minify_html = true
+theme = "papermod"
+
+# Fix taxonomy configuration
+taxonomies = [
+    { name = "tags" }
+]
+
+[search]
+include_title = true
+include_description = false
+include_path = false
+include_content = true
+index_format = "elasticlunr_json"
+
+[markdown]
+highlight_code = true
+
+[extra]
+[extra.papermod]
+title = "One Thing We Learned Today"
+default_theme = "auto"
+theme = "light"
+language_direction = "auto"
+keywords = ["finance", "markets", "learning"]
+show_theme_toggle = true
+show_scroll_to_top = true
+show_code_copy_buttons = true
+show_reading_time = true
+show_word_count = false
+show_post_nav_links = true
+show_post_meta = true
+default_toc_open = false
+show_post_edit_button = false
+date_format = "%Y-%m-%d"
+
+navigation = [
+    { url = "$BASE_URL/archive", title = "Archive" },
+    { url = "$BASE_URL/about", title = "About" },
+    { url = "$BASE_URL/tags", title = "Tags" },
+    { url = "$BASE_URL/search", title = "Search" }
+]
+
+home_title = "One Thing We Learned Today"
+home_content = """
+Welcome to *One Thing We Learned Today*. This is a blog where we share one thing we learn each day. Join us on this quest to embrace being a little bit dumb every day.
+"""
+
+social_icons = [
+    { url = "https://x.com/zerodhamarkets", title = "Twitter", icon = "twitter" },
+    { url = "https://www.linkedin.com/showcase/markets-by-zerodha/", title = "LinkedIn", icon = "linkedin" },
+    { url = "$BASE_URL/atom.xml", title = "RSS", icon = "rss" }
+]
