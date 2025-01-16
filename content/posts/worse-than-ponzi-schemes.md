@@ -9,9 +9,7 @@ tags = ["SPACS", "consumption", "personal finance", "AI" ]
 
 **Pranav**
 
-SPACs make for worse investments than *literal Ponzi schemes*!
-
-https://x.com/ecommerceshares/status/1879112543274447055
+SPACs make for [worse investments](https://x.com/ecommerceshares/status/1879112543274447055) than *literal Ponzi schemes*!
 
 Pranav's second article. 
 
