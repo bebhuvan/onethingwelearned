@@ -1,6 +1,6 @@
 author = "Bhuvanesh"
 title = "Two Things We Learned"
-base_url = "http://127.0.0.1:1111"
+base_url = "https://onethingwelearned.pages.dev" 
 compile_sass = true
 build_search_index = true 
 generate_feeds = true
