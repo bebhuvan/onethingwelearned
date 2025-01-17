@@ -6,4 +6,4 @@ date = 2024-01-16
 tags = ["first-post"]
 +++
 
-This is my first blog post.
+And we are live. We hope you'll have fun on this site and find new and fascinating rabbit holes to go down. 
