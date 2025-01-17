@@ -1,7 +1,6 @@
-Title: Is this peak oil? 
-date = "2024-01-17"
++++ title = "Is this peak oil?" date = "2025-01-17" description = "A few things we learned about London stock exchnage, oil, AI, and more."
 
-tags: "China", "AI", "Electric Vehicles", "Ozempic”, “Reliance”, “Energy”]
+[taxonomies] tags = ["China", "AI", "Electric Vehicles", "Ozempic”, “Reliance”, “Energy”] +++
 
 **Krishna**
 1. eToro, a UK-based company, is planning to list on the New York Stock Exchange. This adds to a growing trend of companies moving away from the London Stock Exchange (LSE). Since 2020, companies accounting for about 14% of the total value of the FTSE have left the London exchange for listings overseas.
