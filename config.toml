@@ -50,7 +50,7 @@ navigation = [
 
 home_title = "Hello there 👋"
 home_content = """
-Welcome to One Thing We Learned Today. This is a blog where we share one thing we learn each day. Join us on this quest to embrace being a little less dumb every day. [How to browse this site](/how-to-browse).
+Welcome to *One Thing We Learned Today*. Each day, we share one thing we learn about markets, finance, and the economy. Join us on this quest to embrace being a little less dumb every day. [Learn how to browse this site](/how-to-browse).
 """
 
 social_icons = [
