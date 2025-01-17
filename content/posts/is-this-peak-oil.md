@@ -92,10 +92,10 @@ Fun fact: The development of GLP-1 drugs was inspired by a hormone found in the 
 
 Later, I came across [this article](https://www.nytimes.com/2024/11/19/magazine/ozempic-junk-food.html) from The New York Times, which had some fascinating bits. Quoting directly from the article:
 
-`"Patients on GLP-1 drugs have reported losing interest in ultraprocessed foods... Some users realize that many packaged snacks they once loved now taste repugnant. 'Wegovy destroyed my taste buds,' a Redditor wrote on a support group, adding: 'And I love it.'"
-The Return to Natural Flavors"`
+"Patients on GLP-1 drugs have reported losing interest in ultraprocessed foods... Some users realize that many packaged snacks they once loved now taste repugnant. 'Wegovy destroyed my taste buds,' a Redditor wrote on a support group, adding: 'And I love it.'"
+The Return to Natural Flavors"
 
-`"Almost everyone's cravings for ultraprocessed foods had been replaced with a lust for fresh and unpackaged alternatives. A 32-year-old scientist... said, 'Celery tastes like celery. And carrot tastes like carrot. Strawberry tastes like strawberry.' Since taking Wegovy, she added, 'I just started to realize that they taste wonderful by themselves.'"`
+"Almost everyone's cravings for ultraprocessed foods had been replaced with a lust for fresh and unpackaged alternatives. A 32-year-old scientist... said, 'Celery tastes like celery. And carrot tastes like carrot. Strawberry tastes like strawberry.' Since taking Wegovy, she added, 'I just started to realize that they taste wonderful by themselves.'"
 
 This made me wonder why people on GLP-1 drugs prefer whole foods and fruits. After listening to [this podcast](https://open.spotify.com/episode/38OEaFXh1MC1KMBerJbSXV?context=spotify%3Ashow%3A3pXx5SXzXwJxnf4A5pWN2A) from Vox, where Samhita Mukhopadhyay shared her experience with Ozempic, I think I can make sense of why this is the case.
 
@@ -126,8 +126,7 @@ According to the [IEA](https://www.iea.org/reports/global-ev-outlook-2024/trends
 
 That said, it remains to be seen how much greenification and electrification of transport will actually reduce oil demand. The irony of the green transition is that you still need a lot of plastic—which comes from crude oil—to go green. Here's a telling quote from the article:
 
-> “For 5 megawatts of wind-generated power, you need 50 tonnes of plastics. For every electric vehicle, you need 200–230 kg of plastic. Even in solar panels, 10% comes from fibre and so on. So for the transition to happen, you need more oil,” he said.
-> 
+> “For 5 megawatts of wind-generated power, you need 50 tonnes of plastics. For every electric vehicle, you need 200–230 kg of plastic. Even in solar panels, 10% comes from fibre and so on. So for the transition to happen, you need more oil,” he said. > 
 
 But *peak oil* is not without its detractors. Last year, I listened to a [fascinating podcast](https://www.macrovoices.com/podcast-transcripts/1355-dr-anas-alhajji-oil-middle-east-politics-china) featuring oil expert Anas Alhajji, who *seemed* to dispel the *myth* of EVs significantly reducing oil demand. A few highlights from the conversation:
 
@@ -137,4 +136,4 @@ But *peak oil* is not without its detractors. Last year, I listened to a [fascin
 - A large portion of the decline in Chinese oil demand is due to slow economic growth, not the adoption of LNG trucks and EVs.
 - The media misleads people by focusing on the percentage growth of EV sales rather than the total stock of EVs on the road.
 
-  ---
+---
