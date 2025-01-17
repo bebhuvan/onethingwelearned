@@ -9,5 +9,5 @@
             text { fill: white; }
         }
     </style>
-    <text x="50" y="65" text-anchor="middle" font-size="60">🌱</text>
+    <text x="50" y="70" text-anchor="middle" font-size="70">🌱</text>
 </svg>
