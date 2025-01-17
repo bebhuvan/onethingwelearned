@@ -4,7 +4,7 @@ date = "2024-01-17"
 description = "A few things we learned about London stock exchnage, oil, AI, and more."
 
 [taxonomies]
-tags = [China", "AI", "Electric Vehicles", "Ozempic”, “Reliance”, “Energy”
+tags = ["China", "AI", "Electric Vehicles", "Ozempic”, “Reliance”, “Energy”]
 +++
 
 **Krishna**
