@@ -20,6 +20,29 @@ Why is this happening? It largely comes down to the appeal of a larger pool of i
 [Reddit](https://www.reddit.com/r/HistoryMemes/comments/12ane0r/lighters_were_invented_before_matches_the_first/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ---
+**Bhuvan**
+
+Ever since we started the *Markets by Zerodha* YouTube channel, my longstanding fascination with China was rekindled. In fact, I even recorded a [terrible video](https://www.youtube.com/watch?v=Js4G6_oyBbc&pp=ygUfTWFya2V0cyBieSBaZXJvZGhhIENoaW5hIEJodXZhbg%3D%3D) on the topic. To my colleagues who write here, this fascination seems like an obsession and has made me the butt of repeated jokes—mostly lame ones. But even if you just spend a few hours reading about the Chinese economy, you'll quickly get a sense of just how important it is to the global economy. To make this rather simple statement more concrete, I'd suggest a simple experiment: try going through a day without using a Chinese product.
+
+The reason I bring this up is because there was an [interesting article](https://www.ft.com/content/341f0aaa-7173-454c-89fd-103287625d38) in the *Financial Times* about how China might soon be hitting "peak oil." This is a topic I've closely followed, and some of the shifts in China regarding its oil consumption are stunning, to say the least.
+
+In the first few weeks of 2025, Chinese oil demand saw its first decline in two decades. The obvious suspect behind this decline is, of course, the terrible Chinese economy, but that's not the only reason. There are fascinating shifts in its transportation sector that *may be* reducing its demand for oil. The first big shift is the rise of electric vehicles (EVs).
+
+According to the [IEA](https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars), about 60% of all EVs sold worldwide were in China. It further projects that 75% of all Chinese car sales will be electric by 2030. The second major shift reducing demand for diesel—apart from the construction slowdown—is the transition toward [LNG trucks](https://www.kpler.com/blog/chinas-gasoil-demand-is-set-to-peak-in-2026-as-sweeping-changes-in-the-transportation-sector-take-a-toll). A statistic I saw on [the blog of Kpler](https://www.kpler.com/blog/chinese-ev-sales-in-southeast-asia-hit-the-brakes-on-gasoline-demand-growth-but-not-so-fast), a trade intelligence firm, puts this into perspective. They predict Chinese gasoline demand to slow to 2.6% between 2021–2030, compared to a counterfactual growth of 3.1% without EVs.
+
+That said, it remains to be seen how much greenification and electrification of transport will actually reduce oil demand. The irony of the green transition is that you still need a lot of plastic—which comes from crude oil—to go green. Here's a telling quote from the article:
+
+> "For 5 megawatts of wind-generated power, you need 50 tonnes of plastics. For every electric vehicle, you need 200–230 kg of plastic. Even in solar panels, 10% comes from fibre and so on. So for the transition to happen, you need more oil."
+
+But *peak oil* is not without its detractors. Last year, I listened to a [fascinating podcast](https://www.macrovoices.com/podcast-transcripts/1355-dr-anas-alhajji-oil-middle-east-politics-china) featuring oil expert Anas Alhajji, who *seemed* to dispel the *myth* of EVs significantly reducing oil demand. A few highlights from the conversation:
+
+- There are only about 50 million EVs in the world, and they've only reduced oil demand by about 1.2 million barrels a day. For context, the world consumes over 100 million barrels of oil daily.
+- EV production in China has increased the demand for crude derivatives like LPG and naphtha.
+- Heavy EVs experience faster wear and tear on tires, which, paradoxically, increases demand for crude-based products.
+- A large portion of the decline in Chinese oil demand is due to slow economic growth, not the adoption of LNG trucks and EVs.
+- The media misleads people by focusing on the percentage growth of EV sales rather than the total stock of EVs on the road.
+
+---
 
 **Kashish**
 
@@ -110,29 +133,5 @@ Quoting from the same NY Times article:
 Protein can have a grainy texture and chalky off notes, but the NourishFits were defectless, smooth and sweet with remote echoes of cocoa. Approximately one-third sugar and about 15 percent fat, the bite-size portions were 'self-limiting,' Sinrod said. Servings could be packaged individually."
 
 How this industry evolves will be super exciting to see. I'll be diving deeper into this rabbit hole and sharing such fun info when I come across them.
-
----
-
-**Bhuvan**
-
-Ever since we started the *Markets by Zerodha* YouTube channel, my longstanding fascination with China was rekindled. In fact, I even recorded a [terrible video](https://www.youtube.com/watch?v=Js4G6_oyBbc&pp=ygUfTWFya2V0cyBieSBaZXJvZGhhIENoaW5hIEJodXZhbg%3D%3D) on the topic. To my colleagues who write here, this fascination seems like an obsession and has made me the butt of repeated jokes—mostly lame ones. But even if you just spend a few hours reading about the Chinese economy, you'll quickly get a sense of just how important it is to the global economy. To make this rather simple statement more concrete, I'd suggest a simple experiment: try going through a day without using a Chinese product.
-
-The reason I bring this up is because there was an [interesting article](https://www.ft.com/content/341f0aaa-7173-454c-89fd-103287625d38) in the *Financial Times* about how China might soon be hitting "peak oil." This is a topic I've closely followed, and some of the shifts in China regarding its oil consumption are stunning, to say the least.
-
-In the first few weeks of 2025, Chinese oil demand saw its first decline in two decades. The obvious suspect behind this decline is, of course, the terrible Chinese economy, but that's not the only reason. There are fascinating shifts in its transportation sector that *may be* reducing its demand for oil. The first big shift is the rise of electric vehicles (EVs).
-
-According to the [IEA](https://www.iea.org/reports/global-ev-outlook-2024/trends-in-electric-cars), about 60% of all EVs sold worldwide were in China. It further projects that 75% of all Chinese car sales will be electric by 2030. The second major shift reducing demand for diesel—apart from the construction slowdown—is the transition toward [LNG trucks](https://www.kpler.com/blog/chinas-gasoil-demand-is-set-to-peak-in-2026-as-sweeping-changes-in-the-transportation-sector-take-a-toll). A statistic I saw on [the blog of Kpler](https://www.kpler.com/blog/chinese-ev-sales-in-southeast-asia-hit-the-brakes-on-gasoline-demand-growth-but-not-so-fast), a trade intelligence firm, puts this into perspective. They predict Chinese gasoline demand to slow to 2.6% between 2021–2030, compared to a counterfactual growth of 3.1% without EVs.
-
-That said, it remains to be seen how much greenification and electrification of transport will actually reduce oil demand. The irony of the green transition is that you still need a lot of plastic—which comes from crude oil—to go green. Here's a telling quote from the article:
-
-> "For 5 megawatts of wind-generated power, you need 50 tonnes of plastics. For every electric vehicle, you need 200–230 kg of plastic. Even in solar panels, 10% comes from fibre and so on. So for the transition to happen, you need more oil."
-
-But *peak oil* is not without its detractors. Last year, I listened to a [fascinating podcast](https://www.macrovoices.com/podcast-transcripts/1355-dr-anas-alhajji-oil-middle-east-politics-china) featuring oil expert Anas Alhajji, who *seemed* to dispel the *myth* of EVs significantly reducing oil demand. A few highlights from the conversation:
-
-- There are only about 50 million EVs in the world, and they've only reduced oil demand by about 1.2 million barrels a day. For context, the world consumes over 100 million barrels of oil daily.
-- EV production in China has increased the demand for crude derivatives like LPG and naphtha.
-- Heavy EVs experience faster wear and tear on tires, which, paradoxically, increases demand for crude-based products.
-- A large portion of the decline in Chinese oil demand is due to slow economic growth, not the adoption of LNG trucks and EVs.
-- The media misleads people by focusing on the percentage growth of EV sales rather than the total stock of EVs on the road.
 
 ---
