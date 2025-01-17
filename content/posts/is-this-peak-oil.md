@@ -4,7 +4,7 @@ date = "2024-01-17"
 description = "A few things we learned about London stock exchnage, oil, AI, and more."
 
 [taxonomies]
-tags = ["China", "AI", "Electric Vehicles", "Ozempic”, “Reliance”, “Energy”]
+tags = ["China", "AI", "Electric Vehicles", "Ozempic”, "Reliance", "Energy"]
 +++
 
 **Krishna**
@@ -88,26 +88,26 @@ I should caution you, though: some of Romero’s arguments are rather flimsy —
 
 Ozempic/Mounjaro or GLP-1. You have probably heard of these terms. If you haven't, please send me your address because I want to live under the same rock. Headlines about people losing 20% of their body weight after starting GLP-1 drugs, and the possibility of these medications addressing obesity and even Alzheimer's, completely fascinated me. So much so that I went down the rabbit hole and we made an entire video on the origins and economics of these drugs on the Daily Brief Podcast, which you can find [here](https://youtu.be/HFSTMAtjFSY?si=RmrwU7eU-KdNZ6V7).
 
-Fun fact: The development of GLP-1 drugs was inspired by a hormone found in the saliva of a Gila monster
+Fun fact: The development of GLP-1 drugs was inspired by a hormone found in the saliva of a Gila monster.
 
 Later, I came across [this article](https://www.nytimes.com/2024/11/19/magazine/ozempic-junk-food.html) from The New York Times, which had some fascinating bits. Quoting directly from the article:
 
 "Patients on GLP-1 drugs have reported losing interest in ultraprocessed foods... Some users realize that many packaged snacks they once loved now taste repugnant. 'Wegovy destroyed my taste buds,' a Redditor wrote on a support group, adding: 'And I love it.'"
-The Return to Natural Flavors"
 
 "Almost everyone's cravings for ultraprocessed foods had been replaced with a lust for fresh and unpackaged alternatives. A 32-year-old scientist... said, 'Celery tastes like celery. And carrot tastes like carrot. Strawberry tastes like strawberry.' Since taking Wegovy, she added, 'I just started to realize that they taste wonderful by themselves.'"
 
 This made me wonder why people on GLP-1 drugs prefer whole foods and fruits. After listening to [this podcast](https://open.spotify.com/episode/38OEaFXh1MC1KMBerJbSXV?context=spotify%3Ashow%3A3pXx5SXzXwJxnf4A5pWN2A) from Vox, where Samhita Mukhopadhyay shared her experience with Ozempic, I think I can make sense of why this is the case.
 
-Processed foods often lack fiber, are calorie-dense, and contain ingredients like trans fats and excessive sugars, which can worsen digestive discomfort — something worsened by GLP-1 drugs, which slow digestion. Which is why, today, I learnt that some doctors prescribe laxatives along with GLP_1 drugs to manage side effects like constipation.
+Processed foods often lack fiber, are calorie-dense, and contain ingredients like trans fats and excessive sugars, which can worsen digestive discomfort — something worsened by GLP-1 drugs, which slow digestion. Which is why, today, I learned that some doctors prescribe laxatives along with GLP-1 drugs to manage side effects like constipation.
 
 On the other hand, whole foods like fruits, vegetables, and whole grains naturally aid digestion. Their fiber content promotes regular bowel movements and supports gut health. Samhita's preference for whole foods, like grapes, makes perfect sense given their ease on the stomach.
 
-But on the flip side, there's something intriguing brewing in the processed food industry. These companies are actively working on tweaking flavours and textures to overcome the reduced desire for processed foods induced by GLP-1 drugs.
+But on the flip side, there's something intriguing brewing in the processed food industry. These companies are actively working on tweaking flavors and textures to overcome the reduced desire for processed foods induced by GLP-1 drugs.
 
 Quoting from the same NY Times article:
 
 "In a glass-walled conference room, Mattson scientists prepared for me some of its foods tailored to GLP-1 users that are currently being conceptualized. Amanda Sinrod, a senior food scientist in a white lab coat, placed a plate of soft brown cubes on the table. She explained that she had enriched each NourishFit brownie bite with two grams of protein, for maintaining lean muscle mass during rapid weight loss. A peanut-butter swirl would push that protein level even higher.
+
 Protein can have a grainy texture and chalky off notes, but the NourishFits were defectless, smooth and sweet with remote echoes of cocoa. Approximately one-third sugar and about 15 percent fat, the bite-size portions were 'self-limiting,' Sinrod said. Servings could be packaged individually."
 
 How this industry evolves will be super exciting to see. I'll be diving deeper into this rabbit hole and sharing such fun info when I come across them.
@@ -126,7 +126,7 @@ According to the [IEA](https://www.iea.org/reports/global-ev-outlook-2024/trends
 
 That said, it remains to be seen how much greenification and electrification of transport will actually reduce oil demand. The irony of the green transition is that you still need a lot of plastic—which comes from crude oil—to go green. Here's a telling quote from the article:
 
-> “For 5 megawatts of wind-generated power, you need 50 tonnes of plastics. For every electric vehicle, you need 200–230 kg of plastic. Even in solar panels, 10% comes from fibre and so on. So for the transition to happen, you need more oil,” he said. > 
+> "For 5 megawatts of wind-generated power, you need 50 tonnes of plastics. For every electric vehicle, you need 200–230 kg of plastic. Even in solar panels, 10% comes from fibre and so on. So for the transition to happen, you need more oil."
 
 But *peak oil* is not without its detractors. Last year, I listened to a [fascinating podcast](https://www.macrovoices.com/podcast-transcripts/1355-dr-anas-alhajji-oil-middle-east-politics-china) featuring oil expert Anas Alhajji, who *seemed* to dispel the *myth* of EVs significantly reducing oil demand. A few highlights from the conversation:
 
