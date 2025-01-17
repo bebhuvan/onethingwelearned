@@ -1,6 +1,6 @@
 +++
 title = "Hello World"
-date = 2024-01-16
+date = 2025-01-15
 
 [taxonomies]
 tags = ["first-post"]
