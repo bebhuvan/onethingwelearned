@@ -1,6 +1,6 @@
 +++
 title = "Is this peak oil?"
-date = "2024-01-17"
+date = "2025-01-17"
 description = "A few things we learned about London stock exchnage, oil, AI, and more."
 
 [taxonomies]
