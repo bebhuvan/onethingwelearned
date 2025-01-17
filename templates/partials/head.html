@@ -3,19 +3,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>{% if page.title %}{{ page.title }}{% else %}{{ config.title }}{% endif %}</title>
-
 {% if page.keywords %}
 <meta name="keywords" content="{{ page.keywords | join(sep=', ') }}">
 {% else %}
 <meta name="keywords" content="{{ config.extra.papermod.keywords | join(sep=', ') }}">
 {% endif %}
-
 {% if page.description %}
 <meta name="description" content="{{ page.description }}">
 {% else %}
 <meta name="description" content="{{ config.description }}">
 {% endif %}
-
 {% if page.author %}
 <meta name="author" content="{{ page.author }}">
 {% elif config.author %}
@@ -25,22 +22,13 @@
 {% if current_url %}
 <link rel="canonical" href="{{ current_url }}">
 {% endif %}
-
 <link rel="stylesheet" href="{{ get_url(path='css/includes/scroll-bar.css') }}">
 <link rel="stylesheet" href="{{ get_url(path='css/styles.css') }}">
 <link rel="stylesheet" href="{{ get_url(path='css/override.css') }}">
 
-{% block head_favicons %}
-{# /* Favicons */}
-<link rel="icon" href="{{ site.Params.assets.favicon | default "favicon.ico" | absURL }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ site.Params.assets.favicon16x16 | default "favicon-16x16.png" | absURL }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ site.Params.assets.favicon32x32 | default "favicon-32x32.png" | absURL }}">
-<link rel="apple-touch-icon" href="{{ site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" | absURL }}">
-<link rel="mask-icon" href="{{ site.Params.assets.safari_pinned_tab | default "safari-pinned-tab.svg" | absURL }}">
-<meta name="theme-color" content="{{ site.Params.assets.theme_color | default "#2e2e33" }}">
-<meta name="msapplication-TileColor" content="{{ site.Params.assets.msapplication_TileColor | default "#2e2e33" }}">
-#}
-{% endblock %}
+<!-- Favicons -->
+<link rel="icon" type="image/svg+xml" href="{{ get_url(path='favicon.svg') }}">
+<link rel="icon" type="image/png" href="{{ get_url(path='favicon.png') }}">
 
 {% if config.generate_feeds %}
 {% for feed_filename in config.feed_filenames %}
@@ -69,30 +57,16 @@
                 --code-bg: rgb(55, 56, 62);
                 --border: rgb(51, 51, 51);
             }
-
             .list {
                 background: var(--theme);
             }
-
             .list:not(.dark)::-webkit-scrollbar-track {
                 background: 0 0;
             }
-
             .list:not(.dark)::-webkit-scrollbar-thumb {
                 border-color: var(--theme);
             }
         }
-
     </style>
     {% endif %}
 </noscript>
-
-{% block ext_head %}
-    {#- /* Misc */}}
-    {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
-    {{- template "_internal/google_analytics.html" . }}
-    {{- template "partials/templates/opengraph.html" . }}
-    {{- template "partials/templates/twitter_cards.html" . }}
-    {{- template "partials/templates/schema_json.html" . }}
-    {{- end -#}
-{% endblock %}
