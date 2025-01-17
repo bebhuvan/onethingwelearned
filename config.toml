@@ -1,6 +1,6 @@
-author = "Bhuvanesh"
+author = "Less Dumb"
 title = "Two Things We Learned"
-base_url = "https://onethingwelearned.pages.dev" 
+base_url = "https://onethingwelearned.today" 
 compile_sass = true
 build_search_index = true 
 generate_feeds = true
@@ -42,15 +42,15 @@ show_post_edit_button = false
 date_format = "%Y-%m-%d"
 
 navigation = [
-    { url = "$BASE_URL/archive", title = "Archive" },
     { url = "$BASE_URL/about", title = "About" },
+    { url = "$BASE_URL/archive", title = "Archive" },
     { url = "$BASE_URL/tags", title = "Tags" },
     { url = "$BASE_URL/search", title = "Search" }
 ]
 
 home_title = "One Thing We Learned Today"
 home_content = """
-Welcome to *One Thing We Learned Today*. This is a blog where we share one thing we learn each day. Join us on this quest to embrace being a little less dumb every day.
+Welcome to One Thing We Learned Today. This is a blog where we share one thing we learn each day. Join us on this quest to embrace being a little less dumb every day. [How to browse this site](/how-to-browse).
 """
 
 social_icons = [
