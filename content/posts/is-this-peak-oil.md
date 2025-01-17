@@ -1,6 +1,11 @@
-+++ title = "Is this peak oil?" date = "2025-01-17" description = "A few things we learned about London stock exchnage, oil, AI, and more."
++++
+title = "Is this peak oil?"
+date = "2024-01-17"
+description = "A few things we learned about London stock exchnage, oil, AI, and more."
 
-[taxonomies] tags = ["China", "AI", "Electric Vehicles", "Ozempic”, “Reliance”, “Energy”] +++
+[taxonomies]
+tags = [China", "AI", "Electric Vehicles", "Ozempic”, “Reliance”, “Energy”
++++
 
 **Krishna**
 1. eToro, a UK-based company, is planning to list on the New York Stock Exchange. This adds to a growing trend of companies moving away from the London Stock Exchange (LSE). Since 2020, companies accounting for about 14% of the total value of the FTSE have left the London exchange for listings overseas.
@@ -14,6 +19,8 @@ Why is this happening? It largely comes down to the appeal of a larger pool of i
 2. TIL: Lighters were invented before matches!
    
 [Reddit](https://www.reddit.com/r/HistoryMemes/comments/12ane0r/lighters_were_invented_before_matches_the_first/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+---
 
 **Kashish**
 
@@ -32,6 +39,8 @@ It’s hard to pinpoint exactly what percentage of E&P output is absorbed by the
 Looking ahead, things might change. Reliance is moving into new energy businesses, and its focus on renewable energy and low-carbon solutions might lead to shifts in how its E&P output is utilized. I still need to dig deeper into this, so I’ll leave this thought unfinished for now.
 
 Source: Reliance Investor Presentation, ChatGPT & Claude.
+
+---
 
 **Pranav**
 
@@ -73,6 +82,8 @@ Four, AI innovation is just getting started. Until now, we were just playing wit
 
 I should caution you, though: some of Romero’s arguments are rather flimsy — speculating heavily on AGI and OpenAI’s contractual terms with Microsoft. That sounds more conspiracy-like to me, and frankly, I’m not very interested. But even the basics — the changing economics of the AI industry — are enough to keep me hooked. I look forward to developing this idea further.
 
+---
+
 **Tharun**
 
 Ozempic/Mounjaro or GLP-1. You have probably heard of these terms. If you haven't, please send me your address because I want to live under the same rock. Headlines about people losing 20% of their body weight after starting GLP-1 drugs, and the possibility of these medications addressing obesity and even Alzheimer's, completely fascinated me. So much so that I went down the rabbit hole and we made an entire video on the origins and economics of these drugs on the Daily Brief Podcast, which you can find [here](https://youtu.be/HFSTMAtjFSY?si=RmrwU7eU-KdNZ6V7).
@@ -101,6 +112,8 @@ Protein can have a grainy texture and chalky off notes, but the NourishFits were
 
 How this industry evolves will be super exciting to see. I'll be diving deeper into this rabbit hole and sharing such fun info when I come across them.
 
+---
+
 **Bhuvan**
 
 Ever since we started the *Markets by Zerodha* YouTube channel, my longstanding fascination with China was rekindled. In fact, I even recorded a [terrible video](https://www.youtube.com/watch?v=Js4G6_oyBbc&pp=ygUfTWFya2V0cyBieSBaZXJvZGhhIENoaW5hIEJodXZhbg%3D%3D) on the topic. To my colleagues who write here, this fascination seems like an obsession and has made me the butt of repeated jokes—mostly lame ones. But even if you just spend a few hours reading about the Chinese economy, you'll quickly get a sense of just how important it is to the global economy. To make this rather simple statement more concrete, I'd suggest a simple experiment: try going through a day without using a Chinese product.
@@ -123,3 +136,5 @@ But *peak oil* is not without its detractors. Last year, I listened to a [fascin
 - Heavy EVs experience faster wear and tear on tires, which, paradoxically, increases demand for crude-based products.
 - A large portion of the decline in Chinese oil demand is due to slow economic growth, not the adoption of LNG trucks and EVs.
 - The media misleads people by focusing on the percentage growth of EV sales rather than the total stock of EVs on the road.
+
+  ---
