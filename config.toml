@@ -1,5 +1,5 @@
-author = "Less Dumb"
-title = "Two Things We Learned"
+author = "Curious rabbits"
+title = "One Thing We Learned"
 base_url = "https://onethingwelearned.today" 
 compile_sass = true
 build_search_index = true 
