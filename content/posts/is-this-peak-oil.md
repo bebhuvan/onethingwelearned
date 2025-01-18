@@ -3,7 +3,14 @@ title = "Is this peak oil?"
 date = "2025-01-17"
 
 [taxonomies]
-tags = ["China", "AI", "Electric Vehicles", "Ozempic”, “Reliance”, “Energy”]
+tags = [
+    "China",
+    "AI",
+    "Electric Vehicles",
+    "Ozempic",
+    "Reliance",
+    "Energy"
+]
 +++
 
 **Krishna**
