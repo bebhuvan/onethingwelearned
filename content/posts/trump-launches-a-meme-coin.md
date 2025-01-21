@@ -19,6 +19,8 @@ The Roman Empire is often regarded by white people as one of the greatest civili
 
 Just one day before Trump assumed office as the president of the most powerful nation on the planet, he launched a [meme coin](https://coinmarketcap.com/currencies/official-trump/). In essence, Trump is the first president to overtly monetize the presidency. What a legend. Now, just to make the gravity of what happened clear: Trump, the incoming president, not only launched a [pump-and-dump scheme](https://www.coindesk.com/markets/2025/01/20/bitcoin-retraces-to-100-k-trump-tanks-30-as-melania-memecoin-skyrockets) one day before he assumed office, he turned into a meme. That's some phenomenally sad commentary on the state of the United States. As if that wasn't enough, Trump's shitcoin launch was followed by a fresh [shitcoin](https://coinmarketcap.com/currencies/melania-meme/) launch by his wife, Melania.
 
+![Trump's tweet](/images/trump-coin.jpg)
+
 The utter lack of pretense or concern about ethics and decorum is just stunning. It's an outright grift to exploit gullible followers. They're not even pretending anymore.
 
 ---
