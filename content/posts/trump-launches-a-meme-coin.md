@@ -10,7 +10,6 @@ tags = [
     "Forex Market",
     "FMCG",
     "Crypto"
-    "AI"
 ]
 +++
 
@@ -38,6 +37,16 @@ This is just my understanding from a few hours of reading on the topic. I’ll w
 
 ---
 
+**Tharun**
+
+OpenAI's getting heat for not dealing with their [copyright problems](https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/). They're basically grabbing content from everywhere - YouTubers, Instagram influencers, TikTokers - and all these creators are pissed. They've started suing OpenAI because their AI (including Sora) is just taking their work from the internet and using it however they want. Like yeah, the stuff's online, but that doesn't mean it's free for the taking.
+
+OpenAI tried to save face by saying they'd make this thing called a Media Manager - supposed to catch when they're using copyrighted stuff like videos or songs. But guess what? Some insiders spilled that OpenAI's not even working on it. They're just not bothered.
+
+That's pretty much it - they promised to fix things but they're just... not doing it. Classic big tech move right?
+
+---
+
 **Pranav**
 
 It should come as no surprise that the government wastes a lot of tax money that it can put to better use. Most of us think that wastage is because of corruption. But here's an interesting fact that I picked up from Karthik Muralidharan's excellent book, "[Accelerating India's Development](https://www.amazon.in/Accelerating-Indias-Development-State-Led-Governance/dp/067009594X)": corruption makes for a meagre 17% of waste in government. The other 83% is simply lost to inefficiency. Wild, isn't it? Of every 6 Rupees our government wastes, only one actually goes into somebody's pocket. The rest is just thrown away. It disappears into poorly done jobs. It literally helps *nobody*, including corrupt officials!
@@ -55,16 +64,6 @@ Fresh perspectives are undoubtedly valuable, but what's equally crucial (and oft
 This disconnect is creating a divide.
 
 Young professionals are failing to appreciate past work, and seasoned professionals, as a result, are distancing themselves from them. It’s a bit of a vicious cycle that could ultimately hinder meaningful creativity and modernisation in the long run.
-
----
-
-**Tharun**
-
-OpenAI's getting heat for not dealing with their [copyright problems](https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/). They're basically grabbing content from everywhere - YouTubers, Instagram influencers, TikTokers - and all these creators are pissed. They've started suing OpenAI because their AI (including Sora) is just taking their work from the internet and using it however they want. Like yeah, the stuff's online, but that doesn't mean it's free for the taking.
-
-OpenAI tried to save face by saying they'd make this thing called a Media Manager - supposed to catch when they're using copyrighted stuff like videos or songs. But guess what? Some insiders spilled that OpenAI's not even working on it. They're just not bothered.
-
-That's pretty much it - they promised to fix things but they're just... not doing it. Classic big tech move right?
 
 ---
 
