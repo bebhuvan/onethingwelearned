@@ -13,36 +13,6 @@ tags = [
 ]
 +++
 
-**Pranav**
-
-I don’t really understand data. I don’t know how to process it. That makes me a bit of a second-hand story-teller. I don’t have original conclusions; I need people to tell me what the numbers *mean*.
-
-That’s probably why I’m a [terrible investor](https://zerodha.com/z-connect/subtext/why-zerodha-messed-up-by-hiring-me) too.
-
-But I tried experimenting with it anyway. I tried staring at some graphs on electricity consumption from China, courtesy threads by [David Fishman](https://x.com/pretentiouswhat/status/1881596513119506848) and [Glenn](https://x.com/GlennLuk/status/1881680382552342718). My only agenda was to ask “why?” whenever I saw something.
-
-Here’s what they say:
-
-- One, China’s energy consumption, overall, went up by 6.8%. A sizable increase. But why is that? A lot of it has to do with more air-conditioning being used. But what does that mean? Is China’s economy picking up? Are people just forced to use air conditioning because of a terrible heat wave?
-- Two, over the second half of 2024, the electricity consumed by its industrial sector hasn’t gone up very much, year-on-year. What does this mean? Is Chinese industry seeing tepid growth? Or is it just a base effect thing, because late 2023 was wonderful for Chinese industry?
-- Three, its services sector seems to have expanded, because electricity consumption is growing over a high base. But what does the ‘services sector’s’ power consumption actually mean? The sector seems to include everything from hospitals to artificial intelligence to shopping malls. Surely, everything can’t be growing together, right? What’s the real story, then?
-
-Forgive me. I have absolutely no insight to offer. Just questions.
-
-But these are questions I’ll come back to, the next time I come across something about China.
-
-Why China? I think China’s a very easy country to hate, especially if you’re Indian. And because of that, you’re always willing to believe anything negative you hear about the country. Off late, there’s been plenty of negative news around China, and I think that’s made people a little too comfortable with the idea that it’s down and out. Should one trust this story?
-
-I think the smart thing to do, here, is to invert the question and ask: why might it be wrong? What might it be overlooking?
-
-That’s what I’m trying to do.
-
-There’s also a fun little tidbit about the *increase* in China’s power consumption because of EVs — 27 TWh — is more than the *entire* power consumption of Nigeria.
-
-China’s vehicle electrification story, from what I can tell, is a modern marvel. Some day, I’ll go down the rabbithole of exactly how they cracked it.
-
----
-
 **Bhuvan**
 
 Ever since the 2008 global financial crisis, the advanced economies had gotten used to low and steady inflation. In fact, they did their best to generate inflation by using all sorts of unconventional monetary policy tools like quantitative easing, but inflation remained stubbornly low.
@@ -84,6 +54,36 @@ I agree. In fact, an earlier [BIS bulletin](https://www.bis.org/publ/bisbull82.
 > 
 
 The hidden subtext of this debate is how effective and potent are central banks? I'm in the camp that central banks and monetary policy do matter, but their abilities and effectiveness has been vastly overstated to the point that there's unwarranted mythology around them.
+
+---
+
+**Pranav**
+
+I don’t really understand data. I don’t know how to process it. That makes me a bit of a second-hand story-teller. I don’t have original conclusions; I need people to tell me what the numbers *mean*.
+
+That’s probably why I’m a [terrible investor](https://zerodha.com/z-connect/subtext/why-zerodha-messed-up-by-hiring-me) too.
+
+But I tried experimenting with it anyway. I tried staring at some graphs on electricity consumption from China, courtesy threads by [David Fishman](https://x.com/pretentiouswhat/status/1881596513119506848) and [Glenn](https://x.com/GlennLuk/status/1881680382552342718). My only agenda was to ask “why?” whenever I saw something.
+
+Here’s what they say:
+
+- One, China’s energy consumption, overall, went up by 6.8%. A sizable increase. But why is that? A lot of it has to do with more air-conditioning being used. But what does that mean? Is China’s economy picking up? Are people just forced to use air conditioning because of a terrible heat wave?
+- Two, over the second half of 2024, the electricity consumed by its industrial sector hasn’t gone up very much, year-on-year. What does this mean? Is Chinese industry seeing tepid growth? Or is it just a base effect thing, because late 2023 was wonderful for Chinese industry?
+- Three, its services sector seems to have expanded, because electricity consumption is growing over a high base. But what does the ‘services sector’s’ power consumption actually mean? The sector seems to include everything from hospitals to artificial intelligence to shopping malls. Surely, everything can’t be growing together, right? What’s the real story, then?
+
+Forgive me. I have absolutely no insight to offer. Just questions.
+
+But these are questions I’ll come back to, the next time I come across something about China.
+
+Why China? I think China’s a very easy country to hate, especially if you’re Indian. And because of that, you’re always willing to believe anything negative you hear about the country. Off late, there’s been plenty of negative news around China, and I think that’s made people a little too comfortable with the idea that it’s down and out. Should one trust this story?
+
+I think the smart thing to do, here, is to invert the question and ask: why might it be wrong? What might it be overlooking?
+
+That’s what I’m trying to do.
+
+There’s also a fun little tidbit about the *increase* in China’s power consumption because of EVs — 27 TWh — is more than the *entire* power consumption of Nigeria.
+
+China’s vehicle electrification story, from what I can tell, is a modern marvel. Some day, I’ll go down the rabbithole of exactly how they cracked it.
 
 ---
 
