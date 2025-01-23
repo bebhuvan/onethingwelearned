@@ -21,7 +21,7 @@ Sam Altman’s debuting one such system, which he’s talking senators through r
 
 Yeah, we once shat ourselves because *sewing machines* could take our jobs. And now, we have robots that are probably smarter than those metallic morons from Star Wars.
 
-![Star Wards](/images/star-wards.jpg)
+![Star Wars](/images/star-wards.jpg)
 
 *What shitty data were these idiots trained on?*
 
