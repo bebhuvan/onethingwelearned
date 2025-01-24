@@ -1,5 +1,5 @@
 +++
-title = "So Goes The Nation: Dispatches from 2025"
+title = "And so we go: Notes on Immigration, farms, and health"
 date = 2025-01-23
 
 [taxonomies]
@@ -24,9 +24,9 @@ On immigration more broadly, I read a [paper by Robert Krol](https://www.mercatu
 - Patenting by immigrants has increased significantly over the last 20 years.
 - First-generation immigrants created about 25% of all new firms in the U.S. 
 
-Data from Our World in Data shows 50 million immigrants as of 2020. 
+Data from [Our World in Data](https://ourworldindata.org/migration) shows 50 million immigrants as of 2020. 
 
-![Post-pandemic inflation](/images/total-number-of-international-immigrants.jpg)
+![International immigrants](/images/total-number-of-international-immigrants.jpg)
 
 The second thing on the topic of immigration that comes to mind is this [part of the conversation](https://conversationswithtyler.com/episodes/paul-krugman/) between the "information monster" Tyler Cowen and Nobel laureate Paul Krugman: 
 
