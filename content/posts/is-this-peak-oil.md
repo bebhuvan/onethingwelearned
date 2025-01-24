@@ -14,9 +14,10 @@ tags = [
 +++
 
 
+
 ![Peak oil](/images/is-this-peak-oil.webp)
 
-**Bhuvan**
+## Bhuvan
 
 Ever since we started the _Markets by Zerodha_ YouTube channel, my longstanding fascination with China was rekindled. In fact, I even recorded a [terrible video](https://www.youtube.com/watch?v=Js4G6_oyBbc&pp=ygUfTWFya2V0cyBieSBaZXJvZGhhIENoaW5hIEJodXZhbg%3D%3D) on the topic. To my colleagues who write here, this fascination seems like an obsession and has made me the butt of repeated jokes—mostly lame ones. But even if you just spend a few hours reading about the Chinese economy, you'll quickly get a sense of just how important it is to the global economy. To make this rather simple statement more concrete, I'd suggest a simple experiment: try going through a day without using a Chinese product.
 
@@ -34,14 +35,14 @@ The second major shift reducing demand for diesel—apart from the construction 
 
 That said, it remains to be seen how much greenification and electrification of transport will actually reduce oil demand. The irony of the green transition is that you still need a lot of plastic—which comes from crude oil—to go green. Here's a telling quote from the article:
 
-> “For 5 megawatts of wind-generated power, you need 50 tonnes of plastics. For every electric vehicle, you need 200–230 kg of plastic. Even in solar panels, 10% comes from fiber, and so on. So for the transition to happen, you need more oil,” he said.
+> "For 5 megawatts of wind-generated power, you need 50 tonnes of plastics. For every electric vehicle, you need 200–230 kg of plastic. Even in solar panels, 10% comes from fiber, and so on. So for the transition to happen, you need more oil," he said.
 
 But _peak oil_ is not without its detractors. Last year, I listened to a [fascinating podcast](https://www.macrovoices.com/podcast-transcripts/1355-dr-anas-alhajji-oil-middle-east-politics-china) featuring oil expert Anas Alhajji, who _seemed_ to dispel the _myth_ of EVs significantly reducing oil demand. A few highlights from the conversation:
 
--   There are only about 50 million EVs in the world, and they've only reduced oil demand by about 1.2 million barrels a day. For context, the world consumes over 100 million barrels of oil daily.
--   EV production in China has increased the demand for crude derivatives like LPG and naphtha.
--   Heavy EVs experience faster wear and tear on tires, which paradoxically increases demand for crude-based products.
--   A large portion of the decline in Chinese oil demand is due to slow economic growth, not the adoption of LNG trucks and EVs.
+- There are only about 50 million EVs in the world, and they've only reduced oil demand by about 1.2 million barrels a day. For context, the world consumes over 100 million barrels of oil daily.
+- EV production in China has increased the demand for crude derivatives like LPG and naphtha.
+- Heavy EVs experience faster wear and tear on tires, which paradoxically increases demand for crude-based products.
+- A large portion of the decline in Chinese oil demand is due to slow economic growth, not the adoption of LNG trucks and EVs.
 
 ![Oil demand](/images/eia-oil-forecast-india-china.webp)
 
@@ -49,13 +50,15 @@ Source: [EIA](https://www.eia.gov/outlooks/steo/)
 
 ---
 
-**Krishna**
+## Krishna
+
 eToro, a UK-based company, is planning to list on the New York Stock Exchange. This adds to a growing trend of companies [moving away from the London Stock Exchange (LSE)](https://www.ft.com/content/0c492c61-a2ba-4314-b970-8753e34647bb). Since 2020, companies accounting for about 14% of the total value of the FTSE have left the London exchange for listings overseas. Why is this happening? It largely comes down to the appeal of a larger pool of investors and the potential for better liquidity in their shares.
 
 One more thing: Lighters were [invented](https://www.reddit.com/r/HistoryMemes/comments/12ane0r/lighters_were_invented_before_matches_the_first/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) before matches!
 
 ---
-**Kashish**
+
+## Kashish
 
 Reliance has an oil business, but it’s divided into two parts: upstream (E&P) and downstream (O2C). These are just fancy terms for different stages in the energy value chain.
 
@@ -74,8 +77,7 @@ Looking ahead, things might change. Reliance is moving into new energy businesse
 Source: Reliance Investor Presentation, ChatGPT & Claude.
 
 ---
-
-**Pranav**
+## Pranav
 
 Today, I’m going to basically plug a conspiracy theory. Sorry. But this conspiracy theory taught me a whole lot of interesting, _important_ stuff about the AI industry. And if any of it is actually true, we’re staring at a fundamental change in the industry’s economics.
 
@@ -116,7 +118,8 @@ Four, AI innovation is just getting started. Until now, we were just playing wit
 I should caution you, though: some of Romero’s arguments are rather flimsy—speculating heavily on AGI and OpenAI’s contractual terms with Microsoft. That sounds more conspiracy-like to me, and frankly, I’m not very interested. But even the basics—the changing economics of the AI industry—are enough to keep me hooked. I look forward to developing this idea further.
 
 ---
-**Tharun**
+
+## Tharun
 
 Ozempic/Mounjaro or GLP-1. You have probably heard of these terms. If you haven't, please send me your address because I want to live under the same rock. Headlines about people losing 20% of their body weight after starting GLP-1 drugs and the possibility of these medications addressing obesity and even Alzheimer's completely fascinated me. So much so that I went down the rabbit hole and we made an entire video on the origins and economics of these drugs on the Daily Brief Podcast, which you can find [here](https://youtu.be/HFSTMAtjFSY?si=RmrwU7eU-KdNZ6V7).
 
