@@ -33,7 +33,7 @@ The second thing on the topic of immigration that comes to mind is this [part of
 > COWEN: Immigration policy. Maybe your views on this have changed over
 > time. If you could set an ideal immigration policy for 2018, what
 > would it be? How would it impact income inequality? 
-
+>
 > KRUGMAN: First, this is one of those areas where my views have
 > changed. If you'd asked me about it 20 years ago, I basically went
 > with a simple model of the labor force being workers with different
@@ -46,11 +46,11 @@ The second thing on the topic of immigration that comes to mind is this [part of
 > jobs or competing in the same labor markets. So, I think the income
 > distribution effects of immigration are actually much less than we
 > thought. 
-
+>
 > COWEN: The backlash effects—that if too many foreigners enter too
 > rapidly, a lot of native-born Americans become Trump supporters. How
 > much does that worry you? 
-
+>
 > KRUGMAN: My view on immigration has always been that if you aren't at
 > least somewhat conflicted about it, there's something wrong with you.
 > If you want to have a strong social safety net, which I do and most
@@ -58,18 +58,18 @@ The second thing on the topic of immigration that comes to mind is this [part of
 > going to get in the way. Whether or not it's really going to bankrupt
 > the system, the sense that lots of people are coming in to take your
 > benefits is going to be a problem. 
-
+>
 > On the other hand, not allowing anybody in is, from a global welfare
 > point of view, a terrible thing because one of the best ways to
 > improve people's lives is to give them a chance to move to a place
 > where they're more productive. 
-
+>
 > And there are good reasons to think that just our own economic
 > prospects are enhanced by immigration. So, some kind of inevitably
 > awkward compromise is what you're going to do. Then the question
 > becomes, "How many million immigrants a year are we talking about?"
 > That's a hard question to answer. 
-
+>
 > Restricted immigration, but not slamming the door, has got to be the
 > right place to be. This is America. Diversity has been our huge
 > strength over the centuries. It's a real betrayal of our own history
