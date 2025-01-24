@@ -75,7 +75,7 @@ The second thing on the topic of immigration that comes to mind is this [part of
 > strength over the centuries. It's a real betrayal of our own history
 > and of our prospects to turn it off.
 
-Tyler Cowen also wrote another insightful post on the Marginal Revolution blog. Here's an excerpt that stood out to me: 
+Tyler Cowen also wrote [another insightful post](https://marginalrevolution.com/marginalrevolution/2024/07/how-we-should-update-our-views-on-immigration.html) on the Marginal Revolution blog. Here's an excerpt that stood out to me: 
 
 > The second issue, and it is a biggie, is that voters dislike immigration much, much more than they used to. The size of this effect has been surprising, and also the extent of its spread. I am writing this post on Election Day in France, and preliminary results suggest a very real risk that France ends up ungovernable. Immigrants are clearly a major factor in this outcome, even under super-benign views that do not "blame" the immigrants themselves at all.
 >
@@ -115,7 +115,7 @@ Two, that federalism is a great boon to this nation, and we need more decentrali
 
 ## Tharun 
 
-I think I am slowly turning into a "Self improoover", trying to optimize every second of my life like those LinkedIn bros posting their 4 AM cold shower routines. I am slowly becoming him. Self improover And in that quest to become the optimal male, I recently came across this article, where Luc van Loon cites research to explain the best time to have protein, the optimal quantity and what leads to muscle loss and how to prevent it. So if you are a fellow "self improover" and want to get jacked this year, here are some pearls:
+I think I am slowly turning into a "Self improoover", trying to optimize every second of my life like those LinkedIn bros posting their 4 AM cold shower routines. I am slowly becoming him. Self improover And in that quest to become the optimal male, I recently came across [this article](https://getpocket.com/explore/item/4-laws-of-muscle), where Luc van Loon cites research to explain the best time to have protein, the optimal quantity and what leads to muscle loss and how to prevent it. So if you are a fellow "self improover" and want to get jacked this year, here are some pearls:
 
 ### Best time to have protein
 
