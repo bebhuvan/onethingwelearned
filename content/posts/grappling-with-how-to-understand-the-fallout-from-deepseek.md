@@ -41,7 +41,7 @@ A. What other economic constraints should we consider when thinking about the fu
 1. Here’s a nice thought: Deepseek apparently prizes the learning it accumulates through “detours”. And that really resonates — if nothing then because that’s what we, here, find ourselves doing all the time. If you’re reading this, (then I love you, you beautiful stranger) you’re reading a detour blog, where we go far too deep into intellectual detours.
 2. Deepseek’s founder seems a lot like the best version of Elon Musk: a combination of engineering and entrepreneurial (or at least financial) genius. I hope he’s not as batshit crazy as well. From [ChinaTalk](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas):
     
-    https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQu-frTjMSmAz0LrEFXVrfuAQ2en8SOSQ5emUVuX_N8d8cDKFbqX3xFOv7f_lEesZnljZyJ1eGWrXRBMVVr-KvNOL_nZpe5eRBmm5rY7MXYZXjyQdQFsbzHhHR3kWFsKFhtgU7zw?key=AJc5a3izAzzF8mVsIbxNkGSP
+![China clean tech](/images/China-talk.png)
     
 3. I don’t know what this blog is, yet — it’s just a week old — but you could consider this a chain-of-thought approach to all of Zerodha’s future writing. 🙂
 
