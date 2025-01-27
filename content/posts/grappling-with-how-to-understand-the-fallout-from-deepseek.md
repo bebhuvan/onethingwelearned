@@ -113,7 +113,7 @@ China is both a deeply troubled economy and one of the most advanced economies s
 
 But on the other hand, China is at the forefront of cutting-edge innovation in advanced technologies, especially clean energy technologies like electric vehicles, solar, wind, nuclear, and now, it seems, even artificial intelligence (AI). Just take a look at this chart from the [IEA](https://www.iea.org/reports/energy-technology-perspectives-2024?utm_content=buffer3d690&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer):
 
-![China clean tech](/images/china-oil-tech.jpg)
+![China clean tech](/images/china-clean-tech.jpg)
 
 To ensure the success of a structural shift, Xi must emphasize the importance of shoring up the less glamorous parts of the old economy and providing jobs or aid for displaced workers. Without such guidance, officials will continue to prioritize sectors that exacerbate trade tensions with the West over the traditional industries that still account for most of China's growth.The "peak China" narrative fails to capture the country's paradoxical trajectory. Trumpeting only China's vulnerabilities, it trumpets the fear that Chinese leaders will take military risks, which the US must counter. As Ryan Hass warned, this risks escalating a vicious cycle of mutual antagonism.So, is China in decline? The answer is both yes and no. While GDP growth is slowing, China is moving toward a green, high-tech economy, and it remains the world's second-largest consumer market.
 
