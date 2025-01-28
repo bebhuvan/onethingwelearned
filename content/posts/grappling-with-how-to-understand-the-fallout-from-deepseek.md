@@ -95,7 +95,7 @@ Now, I like that Shankar gave me a different perspective to look at this FII nar
 
 That said, I will take what he said with a pinch of salt, but still thank him for giving me a perspective I didn't have **until now**. How much weight should **I** give to his views - I don't know.
 
-https://www.moneycontrol.com/news/opinion/how-india-created-a-generation-of-brainwashed-investors-and-the-macro-disaster-this-has-created-12919063.html 
+[Shankar Sharma](https://www.moneycontrol.com/news/opinion/how-india-created-a-generation-of-brainwashed-investors-and-the-macro-disaster-this-has-created-12919063.html)
 
 ---
 
