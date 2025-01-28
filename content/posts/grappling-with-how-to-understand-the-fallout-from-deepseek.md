@@ -143,4 +143,16 @@ Of course, these are just raw thoughts and more of a rant for now. I’ll dig de
 
 ---
 
+**Tharun**
+
+Everyone I know is writing about DeepSeek, so I’ll skip the general story and tell you something personal. I recently had a weird and surprising moment during an ad shoot—I was doing cardistry for a fintech company—that made me question something I’d never thought about before: the trust we put in new clothes. Here’s what happened.
+
+When it was my turn to shoot, they handed me a brand-new set of clothes with the tags still on. I started to pull off the tag, but then I noticed the other models were wearing theirs with the tags on too. Not wanting to stand out, I left mine on.
+
+After the shoot, I handed back the clothes and realized: they don’t remove the tags because they return the clothes. It was one of those “Wait, what?!” moments.
+
+Now, I’ll have trust issues with new clothes even if they have tags. This is why I thrift clothes.
+
+---
+
 That's it for today. If you liked this, give us a shout by tagging us on  [Twitter](https://x.com/zerodhamarkets).
