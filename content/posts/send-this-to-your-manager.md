@@ -61,7 +61,7 @@ Also, if in your next appraisal your manager tells you were "above average but n
 
 ---
 
-## Krishna—The man who vanished billions**
+## Krishna—The man who vanished billions
 
 Hopefully, tomorrow brings something that has nothing to do with DeepSeek for a change. 
 
@@ -77,7 +77,7 @@ The man, Liang, whose side project wiped away billions from US’s market is a b
 
 ---
 
-## Anurag— Working women in India**
+## Anurag— Working women in India
 
 I recently [read](https://www.dataforindia.com/female-lfpr-change/) about how more women in India are joining the workforce again. After staying low for years and dropping sharply after 2005, female labour force participation has picked up once again in the last five years. This, of course, is a big shift because, for a long time, women in India have been underrepresented in the workforce.
 
