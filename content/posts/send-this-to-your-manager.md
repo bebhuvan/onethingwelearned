@@ -10,6 +10,55 @@ tags = [
 ]
 +++
 
+### Bhuvan—A Few Thoughts on India vs China
+
+Often things become clichés because they are really good at conveying a point in a succinct manner. This applies to one of the most popular clichés of all: a picture speaks a thousand words. There are some pictures that speak more than a thousand words, and the image comparing India and China's GDP is one such image. I was thinking about this because Nithin shared this today. In the 1960s, both countries were at the same level and today, China's per capita GDP is five times larger.
+
+![India and China per capita GDP (R&D) spending](/images/india-china-per-capita-gdp.png)
+
+In case you are wondering how this image would look like if you compared the GDP as whole, it's similar.
+
+![India and China per capita GDP (R&D) spending](/images/india-china-gdp-comparision.png)
+
+The question of why China overtook India is a complex one to answer. To give you a sense, [Arvind Panagariya](https://www.imf.org/en/Publications/WP/Issues/2016/12/30/India-in-the-1980-s-and-1990-s-A-Triumph-of-Reforms-17129) is of the view that China's success stems from its focus on industrialization, export-led growth, and liberalization to attract foreign capital. There's also the fact that in 1980, the share of industries in GDP was 48.5% for China and 24.2% for India. These starting conditions played a big role.
+
+[Meghnad Desai](https://www.imf.org/external/np/apd/seminars/2003/newdelhi/desai.pdf) makes the case that China's single-party system, land reforms, focus on improving agricultural productivity, light and heavy industrialization, decisive and wholesale reforms, and high savings rate were key reasons. Perhaps one of the most thoughtful views is by [Yuen Yuen Ang](https://www.youtube.com/watch?v=c2bYJpx5W0g&pp=ygUbeXVlbiB5dWVuIGFuZyBjaGluYSBlY29ub215), Professor of Political Economy at Johns Hopkins University. She argues that the key factors were:
+
+Top-down direction and bottom-up improvisation at the local level
+Mobilizing the vast bureaucracy
+Harnessing weak institutions
+Liberalization
+Prioritizing economic growth as the primary measure of success
+Incentivizing local officials to take risks
+Investments in literacy
+
+What's most interesting to me personally is China's massive investments in education, research, and development.
+
+One of the big issues with comparing Chinese spending with other countries is the paucity of data. Having said that, based on the available data, China is one of the largest spenders, if not the largest, on research and development in the broadest terms.[ [1](https://www.nature.com/articles/d41586-020-00084-7), [2](https://www.nature.com/articles/d41586-024-03403-4) ). 
+
+I am pretty sure all these data points don't capture the hidden incentives and subsidies that [China funnels](https://www.csis.org/analysis/red-ink-estimating-chinese-industrial-policy-spending-comparative-perspective) into various parts of its economy. I don't mean "hidden" in a negative sense but more in the sense of disclosures.
+
+China's drive to be self sufficient is a powerful one and even the harshest critic today has to agree that what they have achieved is nothing short of stunning. China is kicking ass in everything from AI, most semiconductors, electric vehicles, solar panels, wind, nuclear and more. None of this would've been possible with the dynamic research ecosystem that it has created. The pay offs from these investments are ridiculous. Despite complaints about wasteful spending, China is clearly doing something right. Kyle Chan who writes the awesome High Capacity newsletter, [captures this perfectly](https://www.high-capacity.com/p/chinas-overlapping-tech-industrial):
+
+> In a number of cases, you have what I call "industrial coevolution" where two or more related industries develop together in an iterative, two-way process. This is happening now with China's EV and battery industries, which makes sense given how deeply dependent these two industries are on one another. China's EV industry leveraged the existing scale that China's battery manufacturing industry enjoyed, which in turn gave China's battery industry even more production volume and manufacturing experience. This is also happening with China's battery industry and its solar industry where solar plants are increasingly being deployed with integrated battery energy storage systems (BESS).
+>
+> Industrial coevolution can also happen across multiple industries simultaneously: for example, China's lidar, EV, drone, and autonomous vehicle industries. And the co-development of this nexus of industries can have spillover effects into other industries, such as the proliferation of new kinds of autonomous equipment in agriculture, mining, construction, and energy. At the same time, if there's a weak link, China's central government (particularly the Ministry of Industry and Information Technology) might step in to support the lagging sector, even at the expense of connected industries. This is happening now with China's push to get its automakers to reduce their heavy reliance on foreign automotive semiconductor chips and switch to domestic alternatives.
+
+From this [Economist article](https://www.economist.com/science-and-technology/2024/06/12/china-has-become-a-scientific-superpower):
+
+> Creating world-class universities and government institutions has also been a part of China's scientific development plan. Initiatives like "Project 211", the "985 programme" and the "China Nine League" gave money to selected labs to develop their research capabilities. Universities paid staff bonuses—estimated at an average of $44,000 each, and up to a whopping $165,000—if they published in high-impact international journals.
+Building the workforce has been a priority. Between 2000 and 2019, more than 6m Chinese students left the country to study abroad, according to China's education ministry. In recent years they have flooded back, bringing their newly acquired skills and knowledge with them. Data from the OECD suggest that, since the late 2000s, more scientists have been returning to the country than leaving. China now employs more researchers than both America and the entire EU.
+
+According to the same article, China leads the world in terms of publishing high impact papers across physical sciences, environmental sciences and more. This is in large part due to [explicit cash incentives](https://www.technologyreview.com/2017/07/12/150506/the-truth-about-chinas-cash-for-publication-policy) by the government and it seems to be working. While most papers seem to be garbage because of the perverse incentive, there clearly is a positive side to it.
+
+Meanwhile in India, there must be a sum total of 8 papers. I am exaggerating of course but the state our research and development is pathetic at best. I can speak to my own experience in trying to find economic and financial research papers—there must about 12 of them in total.
+
+![China research and development (R&D) spending](/images/research-spending-gdp.png)
+
+I don't know what the world of AI portends for India but I do know that if we continue to remain mediocre when it comes to harnessing some of the best and brightest minds we have in India, we have a bleak future to look forward to.
+
+---
+
 ## Tharun—The hunt for the perfect employee: Rarity of exceptional people
 
 Have you ever noticed how companies are constantly searching for that one perfect employee? You know, the superhuman who can do everything - and they're willing to pay any price for them. If you're a manager, you've probably been on this hunt too. But here's the thing: finding this person feels impossible, right? Almost like searching for a unicorn.
