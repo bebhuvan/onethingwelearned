@@ -135,7 +135,7 @@ Why am I saying that? I have another post on this tomorrow.
 
 ---
 
-### Pranav—India’s 1991 reforms** 
+## Pranav—India’s 1991 reforms** 
 
 I’ve begun reading a paper by Douglas Irwin on India’s 1991 reforms journey.
 
@@ -172,7 +172,7 @@ We’re going to dig through the best of Irwin’s paper in the coming days.
 
 ---
 
-### Kashish—Love for personal finance**
+## Kashish—Love for personal finance**
 
 Personal finance has a special place in my heart. I may write a lot about complex economics and finance topics for work, but I get the most satisfaction from writing personal finance pieces. In these pieces, the author often repeats the same old principles and stories again and again in a new and novel way that nobody has thought of. I find them breezy and cool to read, yet they add very little value. So I stopped reading those. But every now and then, I pick my favourite authors like [Nick Maggiulli](https://ofdollarsanddata.com/), [Morgan Housel](https://collabfund.com/blog/), or [Vishal Khandelwal](https://www.safalniveshak.com/articles/).
 
