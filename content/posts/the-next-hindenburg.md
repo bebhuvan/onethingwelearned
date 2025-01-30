@@ -10,7 +10,7 @@ tags = [
 ]
 +++
 
-## Krishna—Who’s the next Hindenburg?**
+## Krishna—Who’s the next Hindenburg?
 
 So, Hindenburg Research, the infamous short seller that brought chaos to markets with exposés on companies like Adani and Nikola, shut shop a few weeks back. Naturally, when [*Financial Times*](https://www.ft.com/content/6ed22d3a-f70b-431c-9de6-40ed163307e2) recently wrote a piece on who might take over Hindenburg’s mantle, I had to check it out. Who wouldn’t want to know who the next villain—or hero, depending on your stance—of the markets will be?
 
@@ -36,7 +36,7 @@ Here's a breakdown of the contenders FT named as the next big short sellers:
 
 ---
 
-## Anurag— What’s MM?**
+## Anurag— What’s MM?
 
 We had an interesting discussion in the office today. One of my colleagues was going through a company’s quarterly report and found a figure “12 mm”, which he couldn’t make sense of.
 
