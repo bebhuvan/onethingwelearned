@@ -152,4 +152,20 @@ Even though India’s female workforce participation is still low compared to ot
 
 ---
 
+## Pranav—You are the market
+
+I didn't learn very much today.
+
+But as a former capital markets lawyer, this Buffet quote I just came across made a lot of sense to me:
+
+“An IPO is like a negotiated transaction - the seller chooses when to come public - and it's unlikely to be a time that's favourable to you.”
+
+We never saw anybody IPO when the market sentiment was down. Our work would only heat up when the markets were hot, and as bull runs extended, we would come under more and more pressure.
+
+Every important decision maker in the process - promoters, senior officials (especially if they held ESOPs), investment bankers, all the way down to the law firm lawyers - everybody gains from a dhamaka listing. Nobody gains from a fair one. If a big listing doesn't seem likely, you call your IPO plans off and wait.
+
+You do not time the IPO market. The company times the IPO market - you are the market. 
+
+---
+
 That's it for today. If you liked this, give us a shout by tagging us on [Twitter](https://x.com/zerodhamarkets).
