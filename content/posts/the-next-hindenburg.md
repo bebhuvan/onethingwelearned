@@ -200,4 +200,23 @@ Also, this is not something I learned today, but something I have been internali
 
 ---
 
+## Tharun—Just like your boss, Trump wants employees back in office
+
+Just like your boss, Trump wants all federal employees back in office. The White House issued an [order](https://www.whitehouse.gov/presidential-actions/2025/01/return-to-in-person-work/) on Monday, 20th Jan, instructing millions of federal employees to return and start working from the office all 5 days of the week. He also sent an email to federal employees, giving them the chance to resign by Feb 6, simply by responding to the email with one word "resign". And if they resigned, severance benefit will be given till the end of September.
+
+Of course, similar to how you are dissatisfied with your boss's decision of asking you to come work from office, various unions supporting federal and government workers are also unhappy with Trump's decision. Randy Erwin, national president of the National Federation of Federal Employees (NFFE), said in a [statement](https://nffe.org/press-release/nffe-president-erwin-new-administrations-executive-actions-will-impair-critical-services-for-americans/) last week: "Unions representing public workers have blasted [Schedule F](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/). The policy is among a slew of executive orders designed to intimidate and attack nonpartisan civil servants under the guise of increasing efficiency. However, these orders will do the exact opposite."
+
+Now what is Schedule F? Well, Trump just made it easier to fire federal employees through [Schedule F](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/). As mentioned in [this article](https://www.cbsnews.com/news/donald-trump-executive-order-schedule-f-unions/): "From meat inspectors to border patrol officers, many Americans who work for the federal government could soon see their jobs reclassified into at-will positions, meaning they can be dismissed for nearly any reason."
+
+"We can stop the efforts to fire hundreds of thousands of experienced, hard-working Americans who have dedicated their careers to serving their country and prevent these career civil servants from being replaced with unqualified political flunkies loyal to the president, but not the law or Constitution," AFGE National President Everett Kelley said in a statement.
+
+Is Trump taking a note off of Elon's playbook, where Elon fired 80% of the workforce when he took over X(Twitter)? I don't know, but we all know how that turned out for Musk.
+
+Sources:
+
+- [NPR - Federal Workers Have Until Feb 6 to Resign with Benefits Through September](https://www.npr.org/2025/01/28/nx-s1-5278604/federal-workers-resign-september-telework)
+- [CBS News - Trump Orders All Federal Workers Back to Office 5 Days a Week](https://www.cbsnews.com/news/trump-orders-all-federal-workers-back-to-office-5-days-a-week/)
+
+---
+
 That's it for today. If you liked this, give us a shout by tagging us on  [Twitter](https://x.com/zerodhamarkets).
