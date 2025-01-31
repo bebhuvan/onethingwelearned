@@ -62,9 +62,9 @@ Industrial policy has never been this [sexy](https://cepr.org/voxeu/columns/new-
 
 Just take a look at these two charts from this [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/twec.13608):
 
-![Trade distortive industrial policies by sector](/images/trade distortive industrial policies by sector.jpg)
+![Trade distortive industrial policies by sector](/images/breakdown-of-measures.jpg)
 
-![Trade distortive industrial policies with stated motivation](/images/Trade distortive industrial policies with stated motivation.jpg)
+![Trade distortive industrial policies with stated motivation](/images/motivations-new-industrial-policies.jpg)
 
 One of the most recent example of industrial policy is the [CHIPS Act](https://en.wikipedia.org/wiki/CHIPS_and_Science_Act) by the US to boost manufacturing of semiconductors in the US. Governments enact industrial policy using a range of measures including subsidies, preferential loans, cheap access to land, regulatory relaxations, guarantees etc.
 
