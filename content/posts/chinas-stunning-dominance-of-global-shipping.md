@@ -7,7 +7,6 @@ tags = [
     "Maritime trade",
     "Shipbuilding",
     "China",
-    "DeepSeek",
 ]
 +++ 
 
