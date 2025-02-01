@@ -132,7 +132,9 @@ If China were to invade Taiwan, this entire ecosystem would be at risk. The impa
 
 ![European auto production volumes in 2023](/images/european-auto-production.webp)
 
+We have done an entire episode on the global chip war on The Daily Brief, which you can find [here](https://www.youtube.com/watch?v=vIAS-pKCReA&t).
 
+Of course, the Chinese embassy in the US responded with vague assurances, saying they only want peaceful development. But can you really trust such statements? Only time will tell.
 
 ---
 
