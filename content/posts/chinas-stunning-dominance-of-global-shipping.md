@@ -117,6 +117,25 @@ She also holds that he was perhaps the most prolific psychopath in history.
  But at least I now get why some people—wrapped in the blinders of their times—might revere him.
 
 ---
+
+## Tharun—China is building a military base ten times the size of the Pentagon
+
+China's military is [building a massive military base](https://www.ft.com/content/f3763e51-8607-42b9-9ef9-5789d5bf353d), a construction site spanning roughly 1500 acres. Rumors suggest they are planning on building large bunkers to protect their leaders in case of conflict, including a nuclear war.
+
+![China military base](/images/china-military-base.webp)
+
+Speaking of nuclear capabilities, China is rapidly [expanding its arsenal](https://www.ft.com/content/5290c045-09d1-4da1-844b-166bf227584b). In just one year, they've increased their operational nuclear warheads from 500 to 600. But that's not all—President Xi Jinping has also ordered the PLA to develop the capability to attack Taiwan simultaneously.
+
+This focus on Taiwan is particularly concerning when you consider Taiwan's critical role in global technology. Taiwan isn't just another island—it's the center of global semiconductor production. It's not just a place with factories; it has a whole setup needed to make chips. This includes highly skilled workers, a network of specialized suppliers, and infrastructure that provides everything from precision tools to materials. While other countries are trying to build similar facilities, recreating this ecosystem from scratch is extremely difficult.
+
+If China were to invade Taiwan, this entire ecosystem would be at risk. The impact would be devastating. Think about what happened in 2021 with the chip shortage—car production stopped, consumer electronics were hard to find, and the global economy lost around $240 billion in GDP. Now imagine that situation but on an even larger scale. The disruption wouldn't just affect gadgets; it would impact national defense, medical equipment, communications, and essential infrastructure worldwide. This is why the U.S. and its allies are working to spread out semiconductor production by investing in new facilities in places like the United States, Japan, and South Korea.
+
+![European auto production volumes in 2023](/images/european-auto-production.webp)
+
+
+
+---
+
 That's it for today. If you liked this, give us a shout by tagging us on  [Twitter](https://x.com/zerodhamarkets).
 
  
