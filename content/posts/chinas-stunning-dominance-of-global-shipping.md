@@ -138,6 +138,21 @@ Of course, the Chinese embassy in the US responded with vague assurances, saying
 
 ---
 
+## Krishna—Efficient markets
+
+I was doing some research for a show we have on Markets called *[Who Said What*,](https://www.youtube.com/playlist?list=PLuJA1JMOOYDx5DbI32aWoAz65VgH5HWV0) and the host is yours truly. Bhuvan had sent me an [article by Aswath Damodaran](https://aswathdamodaran.blogspot.com/2025/01/data-update-3-for-2025-slicing-and.html) where he was talking about active vs. passive investing. While reading more on it, this term—markets are efficient—kept popping up. It’s not like I haven’t heard the term before, but I never really knew what it meant.
+
+Here’s what it means in plain, vanilla terms:
+
+Imagine you go to a *sabzi mandi* with many vendors selling the same vegetables. You want to buy 1 kg of tomatoes. If one vendor is charging too much, you’ll just go to another. Over time, vendors realize they can’t overcharge because customers will simply switch, so prices become standardized.
+
+Stock markets work the same way. There are thousands of buyers and sellers. If a stock is too cheap, investors quickly buy it, pushing the price up. If it’s overpriced, they sell, bringing the price down. This constant buying and selling means prices usually reflect the true value of a stock, based on all the information available.
+That’s what people mean when they say markets are efficient.
+
+So the next time someone says it, you can, like me, confidently bullshit your way through the conversation. 🙂
+
+---
+
 That's it for today. If you liked this, give us a shout by tagging us on  [Twitter](https://x.com/zerodhamarkets).
 
  
