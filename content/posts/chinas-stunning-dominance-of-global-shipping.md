@@ -28,7 +28,7 @@ It's important not to look at China's industrial policy for its shipbuilding ind
 >
 > This trend will likely continue. Last year, China attracted [59 percent](https://www.steelorbis.com/steel-news/latest-news/china-claims-59-of-new-shipbuilding-orders-in-global-market-in-2023-1321647.htm) of new shipbuilding orders. Most large ocean-faring vessels put to sea in the coming decade will be built in China. — [The Threat of China's Shipbuilding Empire](https://www.csis.org/analysis/threat-chinas-shipbuilding-empire)
 
-Here's a stat that makes this concrete. In 2000, China was the top trading partner for 80% of countries around the world, including South America and Africa as a whole. That number is just 30% today. China is today the [largest](https://www.visualcapitalist.com/cp/biggest-trade-partner-of-each-country-1960-2020/) trading partner for over 120 countries. That's a stunning number, and all of this is in less than two decades.
+Here's a stat that makes this concrete. In 2000, the US was the top trading partner for 80% of countries around the world, including South America and Africa as a whole. That number is just 30% today. China is today the [largest](https://www.visualcapitalist.com/cp/biggest-trade-partner-of-each-country-1960-2020/) trading partner for over 120 countries. That's a stunning number, and all of this is in less than two decades.
 
 ![Largest trading partners](/images/2020-TRADING-partners-china.webp)
 
