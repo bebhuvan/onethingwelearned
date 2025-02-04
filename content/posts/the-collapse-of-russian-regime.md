@@ -110,8 +110,6 @@ This Monday, we’re back to Doug Irwin’s paper on India’s liberalisation jo
 
 Once again, here are my notes, peppered with tons of my own commentary.
 
----
-
 ### Why did we begin with a state-led economy in the first place?
 
 A couple of reasons:
@@ -119,8 +117,6 @@ A couple of reasons:
 - **The official reason**: India had limited resources. The way to deal with limited resources, the thinking went, was to plan how they’d be used. We wanted to race towards industrialisation (understandably so), and capitalism seemed like waste and profligacy.
 
 - **The emotional reason**: We had come to associate commerce with the likes of the East India Company. Businesses were, in the logic of the times, parasites that came and exploited your people for their gain.
-
----
 
 ### Our entire crisis seems to be set in motion by one big policy mistake...
 
@@ -136,8 +132,6 @@ A couple of reasons:
 
 For more details: [Read the paper here](https://www.piie.com/publications/working-papers/2025/dismantling-license-raj-long-road-indias-1991-trade-reforms)
 
----
-
 ### Here’s the kicker: our early leaders didn’t believe in a floating foreign exchange rate.
 
 - **What we needed**: Restrict imports, boost exports. A floating exchange rate could do that automatically, stopping the bleeding of foreign exchange.
@@ -147,8 +141,6 @@ For more details: [Read the paper here](https://www.piie.com/publications/workin
 - Naturally, a black market sprang up. The premium climbed from 5% (early '50s), to 20% (late '50s), to over 50% (early '60s).
 
 - Nehru dismissed a floating rate as "fantastic nonsense." That’s India’s great tragedy: economic illiteracy. Poor countries need to understand scarcity the most, yet often learn the least.
-
----
 
 ### The only answer? Controlling imports.
 
@@ -162,8 +154,6 @@ For more details: [Read the paper here](https://www.piie.com/publications/workin
 
 - **Corruption**: An overly complicated system invited corruption. By the mid-'60s, rent-seeking accounted for 7% of GDP.
 
----
-
 ### The first devaluation
 
 - By 1960, we had: (a) a fixed exchange rate overvaluing the Rupee, (b) a state-led economy, and (c) severe import restrictions.
@@ -174,8 +164,6 @@ For more details: [Read the paper here](https://www.piie.com/publications/workin
 
 - The devaluation came too late and wasn’t enough. Back-to-back droughts made food imports expensive. Congress lost 78 seats in the 1967 elections.
 
----
-
 ### Things get worse: The Indira Gandhi years
 
 - In 1969, Indira Gandhi aligned with the Left. Investment was restricted, industries were nationalised, and imports became even more restrictive.
@@ -183,8 +171,6 @@ For more details: [Read the paper here](https://www.piie.com/publications/workin
 - India became known as the **most autarkic non-communist country**. The "Hindu rate of growth" prevailed. Forex concerns dominated, but we didn’t understand the root causes.
 
 - **Briefcase politics**: Privileges and exemptions were bought through party donations.
-
----
 
 ### Reform by stealth
 
@@ -194,13 +180,9 @@ For more details: [Read the paper here](https://www.piie.com/publications/workin
 
 - Government committees (1978 and 1984) called for simplifying the import licensing system. Suggestions included replacing licensing with tariffs, but they lacked urgency.
 
----
-
 That's all for today, folks. Next time, we’ll get to the 1980s and the creation of a constituency for reform. Stay tuned.
 
 Lovely paper, once again. A must-read for any Indian with even a slight interest in our economic history.
-
----
 
 ## Anurag—Going back to the old internet
 
