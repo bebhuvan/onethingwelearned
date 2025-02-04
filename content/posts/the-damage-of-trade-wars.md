@@ -111,11 +111,11 @@ That’s the oversimplified explanation of why demography plays a crucial role i
 
 In 2026, India is set to undertake a delimitation exercise.
 
-Delimitation means the process of fixing the number of seats and boundaries of territorial constituencies in each State for the Lok Sabha and Legislative assemblies.
+> Delimitation means the process of fixing the number of seats and boundaries of territorial constituencies in each State for the Lok Sabha and Legislative assemblies.
 
 Now, democracy is based on the principle of one person, one vote, one value. That means a state with a larger population should ideally have more seats in the Lok Sabha. But here’s the twist—this hasn’t been the case for a while.
 
-However, it [number of seats] has been frozen as per the 1971 Census in order to encourage population control measures so that States with higher population growth do not end up having higher number of seats. This was done through the 42nd Amendment Act till the year 2000 and was extended by the 84th Amendment Act till 2026. Hence, the population based on which the number of seats is allocated refers to the population as per the 1971 Census.
+> However, it [number of seats] has been frozen as per the 1971 Census in order to encourage population control measures so that States with higher population growth do not end up having higher number of seats. This was done through the 42nd Amendment Act till the year 2000 and was extended by the 84th Amendment Act till 2026. Hence, the population based on which the number of seats is allocated refers to the population as per the 1971 Census.
 
 But once this freeze lifts, the number of seats will be recalculated based on the first Census after 2026. And that’s where things get tricky—states that have seen higher population growth since 1971 will gain more seats (and more political influence), while those with lower growth will see their representation shrink.
 
