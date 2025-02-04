@@ -61,6 +61,8 @@ In a tweet summarizing his paper, Ahmad [wrote](https://x.com/ALashkaripour/stat
 
 The US has just imposed sweeping tariffs on almost $1.4 trillion worth of imports from its three largest trading partners. This level of escalation is unprecedented in recent history.  
 
+![US imports by country](/images/united-states-imports-by-country.webp)  
+
 During Trump's first term, tariffs were rolled out over months, but this time, it's happening in a matter of weeks.  
 
 ![US imports by country](/images/us-imports-by-country.webp)  
