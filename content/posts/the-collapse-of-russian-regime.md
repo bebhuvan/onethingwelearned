@@ -39,8 +39,8 @@ Kotkin is one of the most insightful experts on all things Russia, having writte
 
 Kotkin cites a few reasons:
 
-1. **Collective action problem: In authoritarian regimes, paranoia is pervasive. People are afraid to speak out against leaders because they fear being ratted out.    
-2. **Negative selection: Putin has appointed incompetent idiots to key positions of power. The advantage of incompetent people is that they are too stupid to know they are incompetent, which means they'll never revolt or even think about usurping power.
+1. **Collective action problem**: In authoritarian regimes, paranoia is pervasive. People are afraid to speak out against leaders because they fear being ratted out.    
+2. **Negative selection**: Putin has appointed incompetent idiots to key positions of power. The advantage of incompetent people is that they are too stupid to know they are incompetent, which means they'll never revolt or even think about usurping power.
 
 > **Stephen Kotkin**: The cost of negative selection is that you end up with incompetent people in key positions, like defense minister. This might be fine during peacetime, but when war comes, you've consistently chosen loyalty over competence. And you've done so deliberately, through negative selection. War has a way of exposing people's true capabilities.
 >
@@ -183,6 +183,8 @@ For more details: [Read the paper here](https://www.piie.com/publications/workin
 That's all for today, folks. Next time, we’ll get to the 1980s and the creation of a constituency for reform. Stay tuned.
 
 Lovely paper, once again. A must-read for any Indian with even a slight interest in our economic history.
+
+---
 
 ## Anurag—Going back to the old internet
 
