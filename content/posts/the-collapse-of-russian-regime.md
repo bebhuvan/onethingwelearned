@@ -7,6 +7,7 @@ tags = [
     "Russia",
     "Stock market",
     "AI",
+    "Health",
 ]
 +++ 
 ## Bhuvan—Democratic backsliding and collapse of Russian regime
@@ -203,6 +204,56 @@ And it’s crazy if you think about it. The internet went from simple text pages
 Also, if AI agents become our primary way of interacting with the internet, the role of web developers will change drastically. AI-first development could become the new standard, where businesses focus on optimizing their data for AI rather than humans. This shift might also reduce the power of traditional SEO.
 
 Currently, companies optimise websites to rank on Google, but if AI agents handle search, they’ll pick results based on relevance and accuracy, not just clever keyword stuffing. This could fundamentally change digital marketing altogether.
+---
+
++++ 
+## Kashish - Solution to my post lunch sleepy problem
+
+Most days after lunch, I’d feel waves of fatigue hit me—like clockwork. My eyelids would get so heavy, I’d almost doze off at my desk. It was annoying. I had plenty of theories about why this was happening, but none of them were right.
+
+**Not enough sleep?**
+Couldn’t be. I’m a sleep fiend. I don’t track my sleep obsessively like those [Whoop](https://www.whoop.com/in/en/)-wearing fanatics, but I make sure to get a solid 7.5 hours every night. It’s not always perfect, but I try. And on the rare days I don’t, I panic—not just because of my [gym gains](https://pmc.ncbi.nlm.nih.gov/articles/PMC5749041/#:~:text=Poor%20sleep%20quality%20and%20short,may%20also%20influence%20muscle%20strength) (which, of course, I treat like life and death) but also because I assumed this was the reason for my post-lunch slumps.
+Except…it wasn’t. Even on days I clocked a full 8 hours, I’d still feel like crashing mid-day.
+
+**Sugar crash?**
+Made sense. I eat heavy. [Permabulk](https://www.urbandictionary.com/define.php?term=Permabulk)—whatever that means—is my default mode. My philosophy was simple: eat till you can’t move, then eat some more. It worked [wonders](https://medium.com/in-fitness-and-in-health/the-skinny-guys-guide-to-unlocking-captain-america-physique-3ca36b16c55d) for my skinny frame, but it also meant I was shoveling down carbs—rice, rotis, the works. If that wasn’t a recipe for a glucose crash, then what was?
+But again, that theory fell apart. Even on days when I kept lunch light, I still felt like curling up in my chair and passing out.
+
+**Boredom at work?**
+Now, I wouldn’t want my boss to hear this, but I did consider that maybe my work was just too dull, making me feel drowsy.
+But, obviously, that wasn’t true. I love what I do. 🥰
+
+After cycling through these theories and finding no real explanation, I did what any rational person would do—I stopped treating it as a problem. Classic case of "if I can’t figure it out, it must not be real." Not my brightest moment.
+
+Then, by complete accident, I found the solution.
+
+I’ve been meaning to take supplements more seriously. Until now, Vitamin D3 was the only thing I bothered with. But I’d heard good things about fish oil and figured a multivitamin wouldn’t hurt. No reason not to try, right? Except I kept procrastinating—why? No clue.
+
+Finally, after spending way too much time ChatGPT-ing and consulting a trusted friend, I ordered both.
+
+Day 1: Took them cautiously. Avoided mixing fish oil with milk. Kept the multivitamin away from tea. Played it safe. Mild stomach discomfort? Sure. But I was prepared.
+
+Day 2: Repeated the process, felt fine.
+
+Day 3: Same routine, no issues.
+
+Then I realized something strange. All this while my post-lunch fatigue disappeared.
+
+At first, I thought it was intermittent—maybe just one of those random good-energy days. But the next day? Still no slump. And the next? Same.
+
+Then it hit me.
+
+A couple of months ago, I had a full-body checkup. Everything was normal—because, obviously, I’m built different—but there were some minor deficiencies: Vitamin D (expected), Vitamin B12, and iron. Nothing major. I shrugged it off, thinking I’d fix it "organically" through my diet.
+
+Turns out, I didn’t.
+Iron deficiency = fatigue.
+Multivitamin = iron.
+Fatigue = gone.
+
+It all made sense.
+
+Now, as I type this at 9:10 PM, I’m still buzzing with energy—something that would have been unthinkable before. By now, I’d usually be zoning out, just waiting to crash into bed.
+What did I learn today? If I’m getting a health checkup, I should actually do something about the results. Took me long enough to figure that out, but hey—better late than never.
 
 ---
 
