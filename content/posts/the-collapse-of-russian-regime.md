@@ -204,10 +204,10 @@ And it’s crazy if you think about it. The internet went from simple text pages
 Also, if AI agents become our primary way of interacting with the internet, the role of web developers will change drastically. AI-first development could become the new standard, where businesses focus on optimizing their data for AI rather than humans. This shift might also reduce the power of traditional SEO.
 
 Currently, companies optimise websites to rank on Google, but if AI agents handle search, they’ll pick results based on relevance and accuracy, not just clever keyword stuffing. This could fundamentally change digital marketing altogether.
+
 ---
 
-+++ 
-## Kashish - Solution to my post lunch sleepy problem
+## Kashish - Solution to my post-lunch sleepy problem
 
 Most days after lunch, I’d feel waves of fatigue hit me—like clockwork. My eyelids would get so heavy, I’d almost doze off at my desk. It was annoying. I had plenty of theories about why this was happening, but none of them were right.
 
