@@ -11,7 +11,7 @@ tags = [
 +++ 
 ## Pranav—The Rules-Based Economic Order
 
-We recently did a story on tariffs on the Markets channel. And while we covered a lot of ground — more than most 'pundits,' I reckon — there are still things we left unsaid.
+We recently [did a story on tariffs on the Markets channel](https://thedailybrief.zerodha.com/p/trumps-new-tariffs-big-consequences?r=45bycr&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false). And while we covered a lot of ground — more than most 'pundits,' I reckon — there are still things we left unsaid.
 
 See, when you're trying to cover the news, everything is monumental — but not equally so. Any given thread you look at has the potential to change lives. But not an equal number of them. Some pieces of news change a few dozen lives, some thousands of lives, some lakhs, and a few rare ones change billions. These are profoundly different in scale, but it's hard to convey the difference in words. What lies beyond life-changing news? Kilo-life-changing news? Mega-life-changing news? How do you convey the scale of importance of any story when every damn story is more important than anything you've seen in your everyday life?
 
