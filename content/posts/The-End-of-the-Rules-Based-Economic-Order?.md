@@ -19,7 +19,7 @@ Anyway, back to the point. If the Trump tariffs are what they seem to be — not
 
 We might just be looking at the final nail in the coffin of the **"rules-based economic order."** And if that’s the case, we should all know what we’re on the verge of losing. These are my loose thoughts on the matter, as I read whatever I can find. You’ll soon see a prettier, better-constructed version of this on the Markets channel.
 
-## The WTO is Dead
+### The WTO is Dead
 
 Let’s face it. The WTO is dead. Trump killed its appellate body back in 2019, and Biden let it stay dead. We’re only starting to see the fallout now.
 
@@ -29,7 +29,7 @@ Let’s face it. The WTO is dead. Trump killed its appellate body back in 2019, 
 
 - What’s incredible, though, is that it worked. For a while, we all pretended like the WTO really did have any authority. Why? Because all the international big boys — the United States, Europe, Canada — acted as though it did.
 
-## The Rules-Based Economic Order and Certainty in Trade
+### The Rules-Based Economic Order and Certainty in Trade
 
 There's perhaps one thing the 'rules-based economic order' allowed for, and that’s **certainty in foreign trade.**
 
@@ -40,7 +40,7 @@ There's perhaps one thing the 'rules-based economic order' allowed for, and that
 - If the United States becomes a force for economic chaos rather than order, that's a **horrible loss** to the world. Without this public good of international certainty, global trade becomes infinitely riskier. It won’t die overnight, but it’ll suffer in a way the vast majority of us have never seen.
 
 
-## China’s Role in the Fallout
+### China’s Role in the Fallout
 
 A lot of the blame for this fallout lies at the feet of **China**.
 
@@ -52,7 +52,7 @@ A lot of the blame for this fallout lies at the feet of **China**.
 
 - Playing hard-ball with China seemed effective for a time, but it may not work anymore. Price-sensitive imports have already shifted away from China. However, China’s trade surpluses have only risen, recently hitting **a trillion dollars**.
 
-## The Need for International Cooperation
+### The Need for International Cooperation
 
 The world requires **more international economic cooperation**, not less.
 
@@ -62,7 +62,7 @@ The world requires **more international economic cooperation**, not less.
 
 ![China's share of US imports](/images/china-share-us-import.png)  
 
-## A Cuckoo Theory
+### A Cuckoo Theory
 
 Here’s a **cuckoo theory**, but one that Trump's circle might actually buy into:  
 [Source: Ham and Cheese on X (formerly Twitter)](https://x.com/hamandcheese/status/1886141069152108567)
@@ -71,13 +71,13 @@ Here’s a **cuckoo theory**, but one that Trump's circle might actually buy int
 
 - It's audacious but risky. The plan has a million ways to go wrong and only a narrow path to success.
 
-## A Global Economic Leadership Vacuum
+### A Global Economic Leadership Vacuum
 
 America could not have backstopped the rules-based economic order forever. As it steps back, there is an opportunity for others to fill the void.
 
 - Nations still demand **economic stewardship**, and some will align with whoever can lead them to development and self-sufficiency. We are witnessing a vacuum in global economic leadership.
 
-**Nature abhors a vacuum.**
+## Nature abhors a vacuum.
 
 That's all for today, folks. I’ll probably follow this up with more one of these days.
 
