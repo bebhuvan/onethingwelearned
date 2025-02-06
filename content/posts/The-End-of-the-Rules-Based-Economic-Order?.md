@@ -77,7 +77,7 @@ America could not have backstopped the rules-based economic order forever. As it
 
 - Nations still demand **economic stewardship**, and some will align with whoever can lead them to development and self-sufficiency. We are witnessing a vacuum in global economic leadership.
 
-## Nature abhors a vacuum.
+### Nature abhors a vacuum.
 
 That's all for today, folks. I’ll probably follow this up with more one of these days.
 
