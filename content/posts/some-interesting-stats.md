@@ -78,7 +78,7 @@ However, it's worth noting that not everyone thinks similarly. Some scientists a
 
 ---
 
-**Krishna—De minimis**
+## Krishna—De minimis
 
 Say you live in the US and go to Shein or Temu and order stuff worth $500. Normally, since it’s coming from outside the country, customs would check it and put some taxes on it because it's an imported product. But back in 2016, the US changed a rule saying that if your package is valued at $800 or less, there will be no import taxes. Great, right? Because customs checks, shipping, and deliveries all became faster.
 
