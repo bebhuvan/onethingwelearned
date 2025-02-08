@@ -1,5 +1,5 @@
 +++
-title = "The Paradoc of Progress"
+title = "The Paradox of Progress"
 date = "2025-02-07"
 
 [taxonomies]
