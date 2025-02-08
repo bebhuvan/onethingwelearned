@@ -90,4 +90,34 @@ Nuclear energy is messy, expensive, and politically divisive, but it’s still p
 
 ---
 
+## Pranav—What’s happening with chocolate?
+
+This morning, we were at Kinya, a posh little cafe full of hot, well-dressed people that always reminds me how, deep down, all I want to be is a bougie snob that thumbs my nose at the world. 
+
+My wife and I ordered mochas (chocolatey coffees, for those of you that aren’t coffee-hipsters yet). Only, something seemed off. Our drinks were a touch too bitter, and worse still, they didn’t feel chocolatey. Had they messed up? Did they accidentally just give us normal-ass coffee? We chatted up one of their baristas to ask them what had changed. Turns out, for the first time in months, they added real chocolate (98% dark) to our drinks. Before this, their vendors didn’t have any, forcing them to make do with some sugary mixture. It was the sugar that we were missing, not the chocolate. 
+
+Why so? Well, that’s something I learned today: for most of last year, there was a terrible chocolate shortage in the market.
+
+Last summer, the world’s chocolate producing zones — Ghana, Ivory Coast, etc. — had a terrible harvest. With back-to-back El Ninos, the weather was terrible. Chocolate usually grows between 21°C and 30°C — but West Africa was seeing temperatures hover around 41°C. On top of that, their crop was eaten up by something called the ‘black pod’ disease. It was the perfect cluster-fuck. Cacao supplies crashed, and there was a global chocolate shortfall of nearly 4 lakh tons. Prices zoomed by as much as 200%.
+
+They’re lower than that peak, but they’re still not back to normal. 
+
+What does that mean? As a rough-and-dirty heuristic, if you know the amount of cacao in a product, you know how sensitive it is to prices. If you’re selling 50% dark chocolate, for instance, half your raw material would briefly have tripled in price. You can imagine the hit on your bottom line. 
+
+![Cocoa graph](/images/cocoa-graph.png)
+
+In a more equitable market, cacao farmers may have been more resilient. If they received the upside in years of good harvest, they would have the capital they needed to replant and invest in disease prevention. Sadly, the world isn’t equitable. This is a market where middlemen, and not farmers, pocket most of the profit. And so, in bad years like this, the whole system grinds to a halt. 
+
+Things became even worse because of all the other trading challenges we’ve been talking about — from the Red Sea shipping crisis to a depreciation of the Rupee — all of which contributed an extra 30-40% to India’s chocolate import bills. 
+
+Now, unlike most of the rest of the world, India isn’t entirely dependent on Western Africa for its chocolate. We also produce cacao domestically. Almost all South Indian states have cacao plantations — with Andhra Pradesh and Kerala leading the way. Unfortunately, in commodity markets, when prices go up in one part of the world, they go up everywhere. So Indian cacao, too, became more expensive — from ₹250 a kilo to ₹1,000 a kilo. 
+
+That’s not a bad thing, though. Indian farmers should have such opportunities to earn well. That signals to other farmers that growing chocolate is a smart idea. In fact, for India, this could be an opportunity wrapped in a crisis. It might help us get a foothold in the $130 billion global chocolate market. 
+
+So, how did businesses deal with these elevated prices? The fancy specialty chocolatiers and patisseries — the guys that sell to snobs like me — were still relatively better off. Their customers could pay a premium to get their hands on the good stuff, so they could keep things the same for longer. But that doesn’t mean life was easy — especially if you were straddling the line and selling to price-conscious customers, in the manner that a ‘mass-tige’ brand like Theobroma might. Many businesses cut down the number of chocolate-based items on their menu, pivoted to fruit-based desserts, and slowly hiked prices. 
+
+Mass-market FMCG players, on the other hand, hit a crisis that was much worse. Getting past it was a task. They cleaned up their supply chains to the extent they could. After all, if there’s less cacao at the very source, the least you can do is ensure that there aren’t any leakages down the line. They also scrambled to find new formulae to manage prices — from passing on costs, to launching new ‘bite-sized’ products that they could charge more for. 
+
+---
+
 That's it for today. If you liked this, give us a shout by tagging us on  [Twitter](https://x.com/zerodhamarkets).
