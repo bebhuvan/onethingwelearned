@@ -51,17 +51,17 @@ What makes this natural experiment particularly interesting is that the arrests 
 
 **The descendants of enemies are more educated, and so are their parents**
 
-!https://chat.zerodha.net/static/files/82c53ca565ed83a033df.png
+
 
 **Share of enemies vs. night lights per capita across gulags**
 
-!https://chat.zerodha.net/static/files/82c53ca565ed83a033df.png
+
 
 **Employees, wages, and profits in Russia: 2018**
 
-!https://chat.zerodha.net/static/files/82c53ca565ed83a033df.png
 
-> More than 60 years after the death of Stalin and the demise of the gulag, areas around camps that had a higher share of "enemies of the people" are richer today, as captured by firms’ wages and profits, as well as by nighttime lights per capita. We argue that the education transferred from forcibly displaced "enemies of the people" to their children and grandchildren partly explains prosperity across Russian localities. Our paper can be seen as a natural experiment that identifies the long-run persistence of higher education and its effects on long-run prosperity. Sadly, it also highlights how atrocious acts by mad individuals can shape the development path of localities over many generations. — Link
+
+> More than 60 years after the death of Stalin and the demise of the gulag, areas around camps that had a higher share of "enemies of the people" are richer today, as captured by firms’ wages and profits, as well as by nighttime lights per capita. We argue that the education transferred from forcibly displaced "enemies of the people" to their children and grandchildren partly explains prosperity across Russian localities. Our paper can be seen as a natural experiment that identifies the long-run persistence of higher education and its effects on long-run prosperity. Sadly, it also highlights how atrocious acts by mad individuals can shape the development path of localities over many generations. — [Link](https://cepr.org/voxeu/columns/enemies-people)
 > 
 
 ---
