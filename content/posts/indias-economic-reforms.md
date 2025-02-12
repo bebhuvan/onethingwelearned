@@ -1,5 +1,5 @@
 +++
-title = "India's economic history"
+title = "India's economic reforms"
 date = "2025-02-11"
 
 [taxonomies]
