@@ -70,7 +70,7 @@ For couples tired of spending tens of thousands of dollars with no guarantee of 
 
 ---
 
-**Krishna—Is China innovative?**
+## Krishna—Is China innovative?
 
 If you landed here on this website, I would make a reasonable assumption that you follow *The Daily Brief,* and if you do follow it, you would know by now how China is the world’s factory and everything. Now, I wont touch upon that today.
 
