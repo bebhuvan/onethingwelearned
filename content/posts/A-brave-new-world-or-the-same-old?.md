@@ -60,7 +60,7 @@ The ancient Greeks are the only ones I know, and it seems like they had a bad ha
 
 ---
 
-**Krishna—Interesting statistics on greenhouse gas emissions**
+## Krishna—Interesting statistics on greenhouse gas emissions
 
 I got to know a couple of interesting stats on greenhouse emissions from this [FT article](https://www.ft.com/content/7ba9da9c-2bba-4c0d-8ea0-ba907325a611).
 
