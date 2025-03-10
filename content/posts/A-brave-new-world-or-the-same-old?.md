@@ -46,17 +46,17 @@ I then asked it to summarize the top 10 heuristics. I don’t know how useful th
 
 ## Pranav—What can $800 billion buy Europe?
 
-Europe wants to re-arm itself, now that America’s breaking all its old promises. It has a “ReArm Europe Plan” in place, which intends to throw $800 billion at the problem over the next four years or so. That’s a scary large sum. 
+Europe wants to re-arm itself, now that America’s breaking all its old promises. It has a “[ReArm Europe Plan](https://ec.europa.eu/commission/presscorner/detail/sv/statement_25_673)” in place, which intends to throw $800 billion at the problem over the next four years or so. That’s a scary large sum.
 
-Perhaps its biggest challenge, as Andrew Korybko highlights, is simply the project it’s embracing. Now, I haven’t read much of him, but ChatGPT tells me that Korybko has a notable pro-Russia bias. Also, the Russian flag is literally superimposed atop his face in his display picture. Calibrate your pinches of salt accordingly. 
+Perhaps its biggest challenge, as [Andrew Korybko highlights](https://korybko.substack.com/p/the-rearm-europe-plan-will-probably?utm_source=share&utm_medium=android&r=4bjma&triedRedirect=true), is simply the project it’s embracing. Now, I haven’t read much of him, but ChatGPT tells me that Korybko has a notable pro-Russia bias. Also, the Russian flag is literally superimposed atop his face in his display picture. Calibrate your pinches of salt accordingly.
 
-His overall case, though, does make sense to me. At the heart of his case — at least to the extent I understand it — is that putting together an army with a common purpose, in a continent full of sovereign countries that have long, dark military histories, is challenging. The US, back when it gave a damn, did the job of giving direction and leadership to this grouping. With the US gone, it isn’t entirely clear where that might come from. 
+His overall case, though, does make sense to me. At the heart of his case — at least to the extent I understand it — is that putting together an army with a common purpose, in a continent full of sovereign countries that have long, dark military histories, is challenging. The US, back when it gave a damn, did the job of giving direction and leadership to this grouping. With the US gone, it isn’t entirely clear where that might come from.
 
-Korybko makes five arguments in his piece. I won’t go through all of them, but there are some larger things he’s hitting at. These are all generally a product of how these are all different nations. Even if they’re allied, each of them is bound to see their own interests as paramount, and superior to those of any other ally of theirs. This could play out in all sorts of ways. If asked “who ought to spend?”, they’ll all point at each other. But if asked “who ought to get contracts for military production?” they’ll all turn their hands around and point to themselves. They’ll probably eye each other with constant submission, and getting even simple things done will require considerable bureaucratic coordination.
+Korybko makes five arguments in his piece. I won’t go through all of them, but there are some larger things he’s hitting at. These are all generally a product of how these are all *different nations*. Even if they’re allied, each of them is bound to see their own interests as paramount, and superior to those of any other ally of theirs. This could play out in all sorts of ways. If asked “who ought to spend?”, they’ll all point at each other. But if asked “who ought to get contracts for military production?” they’ll all turn their hands around and point to themselves. They’ll probably eye each other with constant submission, and getting even simple things done will require considerable bureaucratic coordination.
 
 My military history is rather weak, so I don’t know how much of a handicap this could be, if the proverbial shit were to ever hit the fan. How did large military alliances behave in the past? Were they able to put aside their differences and work together, when the danger was high enough?
 
-The ancient Greeks are the only ones I know, and it seems like they had a bad habit of bickering all the time.  
+The ancient Greeks are the only ones I know, and it seems like they had a bad habit of bickering all the time.
 
 ---
 
