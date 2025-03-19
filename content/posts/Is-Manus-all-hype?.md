@@ -44,4 +44,25 @@ I guess if there’s one thing to take away from all of this, it’s just that y
 
 ---
 
+## Bhuavn—On venture capital
+
+If you follow financial news even sparingly, it's hard to miss headlines about Masayoshi Son. I write a lot, but I've never used the word "buccaneer"—and if there's one person who embodies the spirit of the word, it's Son. Venture capitalists, in general, are crazy people who make crazy investments and say crazy things. However, Son makes your average VC look Amish.
+
+The dude's been taking risks like he's permanently on drugs—really good drugs. I was reading this brilliant article by Laleh Khalili reviewing [*Gambling Man: The Wild Ride of Japan's Masayoshi Son*](https://www.lrb.co.uk/the-paper/v47/n05/laleh-khalili/i-am-genghis-khan) by Lionel Barber. Here are a few crazy things Son has done:
+
+1. Borrowed over $10 billion to buy Vodafone in what was the largest leveraged buyout in Asia.
+2. Lost $11.5 billion on WeWork.
+3. Blew billions through Vision Fund 1, which apparently generated single-digit returns.
+4. Despite the failure of Vision Fund 1, still convinced others to invest in Vision Fund 2.
+5. Lost his fortune and regained it several times over.
+
+And then, here's a banger:
+
+> The protagonist of Dostoevsky’s novel The Gambler stakes his life and the woman he loves on just one more game, one more throw of the dice, driven by ‘self-intoxication, by your own fantasy ... some terrible pleasure – luck, victory, power’. Son seems compulsively driven to invest larger and larger sums so he can call himself the biggest, most significant, most visionary investor in the world. ‘Bill Gates just started Microsoft and Mark Zuckerberg started Facebook,’ Barber quotes Son as saying. ‘I am involved in a hundred businesses, and I control the entire ecosystem. These are not my peers. The right comparison for me is Napoleon or Genghis Khan or Emperor Qin. I am not a CEO. I am building an empire.’
+> 
+
+Talk about megalomania.
+
+---
+
 That's it for today. If you liked this, give us a shout by tagging us on  [Twitter](https://x.com/zerodhamarkets).
