@@ -14,7 +14,7 @@ At its heart, China’s economy works like economies anywhere else: through mark
 
 As evidence, Sumner points to the Zheijang province. That’s the place marked here in red:  
 
-
+![Zhejiang_in_China](/images/Zhejiang_in_China_(+all_claims_hatched).svg.png)
 
 (Yeah, I get it, this map has Kashmir all wrong, but that’s all that [Wikipedia](https://en.wikipedia.org/wiki/Zhejiang) has. Don’t come after me, please? Instead, we could just shake hands and rage about this assault on our territorial sovereignty together.)
 
