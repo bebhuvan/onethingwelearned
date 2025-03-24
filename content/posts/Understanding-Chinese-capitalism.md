@@ -3,7 +3,7 @@ title = "Understanding Chinese capitalism"
 date = "2025-03-24"
   
 [taxonomies]
-tags = ["China]
+tags = ["China"]
 +++
 
 ## Pranav—Understanding Chinese capitalism
