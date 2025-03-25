@@ -3,14 +3,11 @@ title = "Kotkin on Russia, Ukraine, Trump and more"
 date = "2025-03-25"
   
 [taxonomies]
-tags = [
-    "Russia",
-    "Ukraine",
-    "Trump",
-]
+tags = ["Russia","Ukraine","Trump"]
 +++ 
 
 ## Pranav—Kotkin on Russia, Ukraine, Trump and more
+
 Steve Kotkin, by all accounts, is a living legend. I'm not nearly well read enough to tell you why, but from the two-and-a-half podcasts I've heard of his, he sure seems to *get* the Soviet world better than anyone else I've heard. 
 
 That world is now dead, in that the Soviet system has collapsed. It's also very much alive --- those parts of the world still exist, and they still live under the shadow of the Soviet Union. One of those, of course, is Ukraine. It spent the last three years fighting that shadow, in the form of Russia, only to be stabbed in the back by its richest and most powerful ally. 
