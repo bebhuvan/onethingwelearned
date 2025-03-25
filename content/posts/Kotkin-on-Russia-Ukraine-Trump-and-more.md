@@ -66,4 +66,50 @@ Fascinating interview all around.
 
 ---
 
+## Bhuvan - Rebalacing the economy
+
+Tooze says that The United States under Trump is trying to rebalance the economy from services to industry. He doesn't say it out loud but he is also ostensibly trying to rebalance the economy from capital to labor. There is no example in the history of the world of a large economy like the United States pulling this off. Even the New Deal couldn't alter the composition of the US economy much. 
+
+The share of industry in the US economy prior to the New Deal was about 40% and remained the same until 1960s even after it. The composition of the economy only changed after the 1960s due to technological changes and globalization with the rise of Japan, South Korea etc. 
+
+Ahmari disagrees and references Alexander Hamilton's policies that were explicit designed to protect the nascent American industry. Hamilton and other in his footsteps had three prongs to protect American manufacturing from the onslaught of the British:
+
+1. Tariffs
+2. Infrastructure development
+3. Strong banks
+
+Here's a quote that stood out to me:
+
+> In 1721, the British Board of Trade declared that, quote, "the colonies, lacking their own manufacturers, will always remain dependent on Great Britain."
+>
+> So, knowing that, the Hamiltonians said: No.
+> We're going to protect our nascent industries with tariffs—
+> not just to shield them, but also to maintain a base of trained, competent industrial workers in the country.
+> 
+> But it wasn’t just about tariffs—and this is where I think the "Trumpian" approach gets it wrong. Hamilton also established a national bank, which ensured a steady and disciplined flow of credit. The idea was that the financial system should serve the real economy. In other words, finance shouldn't exist for its own sake.
+> 
+> That's why, for much of the country’s early history, banking wasn’t nearly as important as it is today. Wall Street now plays this overbearing role in the economy—but the Hamiltonians worked to prevent that.
+> 
+> And when we say “canal,” we mean infrastructure. Today that might mean something different—
+> well, actually, no. Apparently, today it still means “canal,” since we're about to take over Panama.
+> 
+> But seriously—I don’t know if you realize this, but you may have just stumbled into, if I may, the sequel to Hamilton.
+> 
+> I’m talking Hamilton 2: The Economic Foundation.
+> Maybe not a rap opera… but still.
+
+**The things that matter**
+
+Perhaps, the part that stood out to the liberal and progressive in me, conflating a glorified and ideal for an imagined future. Whenever economic policy is rooted in a perverse yearning for an imagined and sanitized past, how can something good happen even by accident?                         
+
+> Let’s say we really want more competence in chip manufacturing—fine, absolutely, go for it. You can invest in that.But that shouldn't be confused with a broader vision for society or the economy as a whole—let alone seen as a fix for the situation of the American middle class.
+> 
+> And yet, that's exactly how it's often packaged and sold in American politics today.Sure, there's a national security case for diversifying the supply of memory chips and processors.But in my view, that doesn’t add up to a real social vision.Which is why I brought up the Mar-a-Lago and facelift analogy—because it's not real. 
+> 
+> It’s cosmetic.So, you either go down that path, or you go with the "tonal toy," hard-hat economy kind of vision—which Joe Biden was clearly drawn to. He loved being photographed in a manufacturing plant,no matter how rundown, no matter how 1980s it felt. He just wanted to be there.
+> 
+> Both of these are kinds of visions, yes—but they’re really just projections of the past into the future.And I don’t think they’re helpful. In fact, they’re misleading when it comes to what would actually improve the lives of the American working class.What would help? Health care. Child care.Those are the kinds of things that could actually impact tens of millions of people.
+
+---
+
 That's it for today. If you liked this, give us a shout by tagging us on  [Twitter](https://x.com/zerodhamarkets).
