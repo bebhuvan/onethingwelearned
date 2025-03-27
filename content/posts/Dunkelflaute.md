@@ -1,5 +1,5 @@
 +++
-title = "The Paradox of Progress"
+title = "Dunkelflaute"
 date = "2025-03-26"
 
 [taxonomies]
