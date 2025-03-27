@@ -1,6 +1,6 @@
 +++
 title = "The Paradox of Progress"
-date = "2025-02-07"
+date = "2025-03-26"
 
 [taxonomies]
 tags = [
