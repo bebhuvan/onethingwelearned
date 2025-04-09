@@ -1,6 +1,6 @@
 +++
-title = "The marketplace of narratives"
-date = "2025-04-08"
+title = "Revenge of the supply chains"
+date = "2025-04-09"
 
 [taxonomies]
 tags = [
