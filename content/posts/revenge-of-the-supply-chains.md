@@ -20,7 +20,7 @@ Now, Trump’s tariffs have thrown sand into gears that were otherwise spinning 
 
 Look at this chart. It’s one of my favorites — a clear visual of just how intricate today’s global supply chains are. The first-order effect of tariffs is straightforward: U.S. imports become more expensive. You can easily imagine the immediate demand and supply responses. But beyond that, I struggle to visualize the knock-on effects.
 
-![](images/global-supply-chains.png)
+![Supply Chains](images/global-supply-chains.png)
 
 Here are a few questions I’ve been thinking about:
 
