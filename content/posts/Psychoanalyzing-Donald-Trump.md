@@ -102,7 +102,7 @@ In an era that desperately needs certainty to function, we are instead governed 
 
 ---
 
-## Peninsular Gneiss present among us
+## Prerana - Peninsular Gneiss present among us
 
 Few days back, I decided to go sightseeing in the city I have spent my whole life. I went on a walking tour in the historic parts of Bengaluru and ended up at Lalbagh Botanical Garden. I sat on the small hillock I have sat on many many times along with other unassuming people around me. And that was when my tour guide told me something that absolutely blew my mind. That rock we were sitting on is over 3 billion years old. That’s not a typo. Billion, with a B.
 
