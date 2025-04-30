@@ -72,6 +72,7 @@ But seeds? Seeds are tough. When you plant them directly in the ground—in thei
 This method of using foxholes is part of a broader type of regeneration called nucleation or assisted natural regeneration. 
 
 Plants in Foxhole Forests grow in mostly three stages:
+
 Stage 1: Pioneer Species
 These are the first plants to sprout—fast-growing, tough species like native grasses, shrubs, and legumes. They’re built for survival in harsh conditions and help stabilize the soil, reduce erosion, and even improve fertility by fixing nitrogen.
 
