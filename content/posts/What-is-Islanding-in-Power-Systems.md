@@ -1,5 +1,5 @@
 +++
-title = "What is "Islanding" in Power Systems?"
+title = "What is Islanding in Power Systems?"
 date = "2025-04-30"
   
 [taxonomies]
